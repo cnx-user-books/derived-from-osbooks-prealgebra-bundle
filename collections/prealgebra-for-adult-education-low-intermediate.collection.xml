@@ -1,0 +1,101 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col28301</md:content-id>
+    <md:title>Prealgebra for Adult Education: Low Intermediate</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b5200f4c-c464-456c-aa16-b4350b20ce47</md:uuid>
+<md:slug>prealgebra-for-adult-education-low-intermediate</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m77934"/>
+    <col:module document="m77691"/>
+    <col:subcollection>
+      <md:title>Whole Numbers</md:title>
+      <col:content>
+        <col:module document="m57792"/>
+        <col:module document="m68394"/>
+        <col:module document="m68391"/>
+        <col:module document="m68416"/>
+        <col:module document="m68449"/>
+        <col:module document="m68448"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Language of Algebra</md:title>
+      <col:content>
+        <col:module document="m57793"/>
+        <col:module document="m68872"/>
+        <col:module document="m68875"/>
+        <col:module document="m68878"/>
+        <col:module document="m68879"/>
+        <col:module document="m68883"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Integers</md:title>
+      <col:content>
+        <col:module document="m57794"/>
+        <col:module document="m69978"/>
+        <col:module document="m69979"/>
+        <col:module document="m67538"/>
+        <col:module document="m69980"/>
+        <col:module document="m69981"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fractions</md:title>
+      <col:content>
+        <col:module document="m72853"/>
+        <col:module document="m70741"/>
+        <col:module document="m73382"/>
+        <col:module document="m73384"/>
+        <col:module document="m70745"/>
+        <col:module document="m73387"/>
+        <col:module document="m73389"/>
+        <col:module document="m73385"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Decimals</md:title>
+      <col:content>
+        <col:module document="m73504"/>
+        <col:module document="m73491"/>
+        <col:module document="m73510"/>
+        <col:module document="m73507"/>
+        <col:module document="m73495"/>
+        <col:module document="m73494"/>
+        <col:module document="m73500"/>
+        <col:module document="m73512"/>
+        <col:module document="m73509"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solving Linear Equations</md:title>
+      <col:content>
+        <col:module document="m73664"/>
+        <col:module document="m73653"/>
+        <col:module document="m73663"/>
+        <col:module document="m73665"/>
+        <col:module document="m73660"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Measurement and Geometry</md:title>
+      <col:content>
+        <col:module document="m73672"/>
+        <col:module document="m73646"/>
+        <col:module document="m73667"/>
+        <col:module document="m73671"/>
+        <col:module document="m73680"/>
+        <col:module document="m73691"/>
+        <col:module document="m73694"/>
+        <col:module document="m73695"/>
+        <col:module document="m73698"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m76075"/>
+    <col:module document="m73730"/>
+    <col:module document="m73728"/>
+  </col:content>
+</col:collection>

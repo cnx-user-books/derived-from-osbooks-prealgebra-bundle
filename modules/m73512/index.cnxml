@@ -1,0 +1,1218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Solve Proportions and their Applications</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m73512</md:content-id>
+  <md:title>Solve Proportions and their Applications</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Use the definition of proportion</item>
+<item>Solve proportions</item>
+<item>Solve applications using proportions</item>
+</list></md:abstract>
+  <md:uuid>86801504-cf32-4196-94f6-3d683a886a6e</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id1166492711378" class="be-prepared">
+<para id="fs-id1766713">Before you get started, take this readiness quiz.</para>
+<list id="fs-id1335107" list-type="enumerated" number-style="arabic"><item>Simplify: <m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id2751101" document="m73387"/>.</item>
+<item>Solve: <m:math><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>20</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id2565017" document="m73385"/>.</item>
+<item> Write as a rate: Sale rode his bike <m:math><m:mn>24</m:mn></m:math> miles in <m:math><m:mn>2</m:mn></m:math> hours.
+<newline/> If you missed this problem, review <link target-id="fs-id2385626" document="m73500"/>.</item>
+</list></note>
+<section id="fs-id1499696">
+<title>Use the Definition of Proportion</title>
+<para id="fs-id1682902">In the section on Ratios and Rates we saw some ways they are used in our daily lives. When two ratios or rates are equal, the equation relating them is called a <term>proportion</term>.</para><note id="fs-id1878909">
+<title>Proportion</title>
+<para id="fs-id1166492018126">A proportion is an equation of the form <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow><m:mrow><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1166490779333">The proportion states two ratios or rates are equal. The proportion is read <m:math><m:mtext>“</m:mtext><m:mi>a</m:mi></m:math> is to <m:math><m:mi>b</m:mi><m:mo>,</m:mo></m:math> as <m:math><m:mi>c</m:mi></m:math> is to <m:math><m:mi>d</m:mi><m:mtext>”.</m:mtext></m:math></para>
+</note>
+<para id="fs-id1166497354347">The equation <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> is a proportion because the two fractions are equal. The proportion <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> is read <m:math><m:mtext>“</m:mtext><m:mn>1</m:mn></m:math> is to <m:math><m:mn>2</m:mn></m:math> as <m:math><m:mn>4</m:mn></m:math> is to <m:math><m:mn>8</m:mn><m:mtext>”.</m:mtext></m:math></para>
+<para id="fs-id1166492788523">If we compare quantities with units, we have to be sure we are comparing them in the right order. For example, in the proportion <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>20 students</m:mtext></m:mrow><m:mrow><m:mtext>1 teacher</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>60 students</m:mtext></m:mrow><m:mrow><m:mtext>3 teachers</m:mtext></m:mrow></m:mfrac></m:mrow></m:math> we compare the number of students to the number of teachers. We put students in the numerators and teachers in the denominators.</para>
+<example id="fs-id1166479044172">
+<exercise id="fs-id1708270"><problem id="fs-id1166494585692">
+<para id="fs-id1287243">Write each sentence as a proportion:
+
+<list id="eip-id1168468553410" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mrow><m:mspace width="0.2em"/><m:mn>3</m:mn></m:mrow></m:math> is to <m:math><m:mn>7</m:mn></m:math> as <m:math><m:mn>15</m:mn></m:math> is to <m:math><m:mrow><m:mn>35</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mrow><m:mspace width="0.2em"/><m:mn>5</m:mn></m:mrow></m:math> hits in <m:math><m:mn>8</m:mn></m:math> at bats is the same as <m:math><m:mn>30</m:mn></m:math> hits in <m:math><m:mn>48</m:mn></m:math> at-bats.</item>
+
+<item><span class="token">ⓒ</span><m:math><m:mrow><m:mspace width="0.2em"/><m:mrow><m:mtext>$1.50</m:mtext></m:mrow></m:mrow></m:math> for <m:math><m:mn>6</m:mn></m:math> ounces is equivalent to <m:math><m:mtext>$2.25</m:mtext></m:math> for <m:math><m:mn>9</m:mn></m:math> ounces.</item></list></para></problem>
+<solution id="fs-id1166482132364">
+<title>Solution</title>
+<table id="eip-id1168468496922" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+ <row>
+   <entry><span class="token">ⓐ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+   <entry>3 is to 7 as 15 is to 35.</entry>
+</row>
+
+ <row> 
+ <entry>Write as a proportion.</entry>
+ <entry><m:math><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>15</m:mn><m:mn>35</m:mn></m:mfrac></m:math></entry>
+ </row>
+
+
+</tbody>
+
+</tgroup>
+</table>
+
+<table id="eip-id1168047457950" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+
+
+<row>
+   <entry><span class="token">ⓑ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>5 hits in 8 at-bats is the same as 30 hits in 48 at-bats.</entry>
+</row>
+
+ <row> 
+   <entry>Write each fraction to compare hits to at-bats.</entry>
+   <entry><m:math><m:mfrac><m:mrow><m:mtext>hits</m:mtext></m:mrow><m:mrow><m:mtext>at-bats</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>hits</m:mtext></m:mrow><m:mrow><m:mtext>at-bats</m:mtext></m:mrow></m:mfrac></m:math></entry> 
+   </row>
+
+<row> 
+   <entry>Write as a proportion.</entry>
+   <entry><m:math><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>30</m:mn></m:mrow><m:mrow><m:mn>48</m:mn></m:mrow></m:mfrac></m:math></entry> 
+</row>
+
+
+</tbody>
+
+</tgroup>
+</table>
+
+<table id="eip-id1168047661662" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+
+ <row>
+   <entry><span class="token">ⓒ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>$1.50 for 6 ounces is equivalent to $2.25 for 9 ounces.</entry>
+</row>
+
+<row>
+   <entry>Write each fraction to compare dollars to ounces. </entry>
+   <entry><m:math><m:mfrac><m:mo>$</m:mo><m:mrow><m:mtext>ounces</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mo>$</m:mo><m:mrow><m:mtext>ounces</m:mtext></m:mrow></m:mfrac></m:math></entry>
+ </row>
+
+ <row> 
+   <entry>Write as a proportion.</entry>
+   <entry><m:math><m:mfrac><m:mrow><m:mn>1.50</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2.25</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:math></entry> 
+</row>
+
+</tbody>
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166490904664" class="try">
+<exercise id="fs-id1476998">
+<problem id="fs-id1543802">
+<para id="fs-id1166492788601">Write each sentence as a proportion:
+
+<list id="eip-id1168467325322" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>5</m:mn></m:math> is to <m:math><m:mn>9</m:mn></m:math> as <m:math><m:mn>20</m:mn></m:math> is to <m:math><m:mn>36</m:mn><m:mo>.</m:mo></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>7</m:mn></m:math> hits in <m:math><m:mn>11</m:mn></m:math> at-bats is the same as <m:math><m:mn>28</m:mn></m:math> hits in <m:math><m:mn>44</m:mn></m:math> at-bats.</item>
+
+<item><span class="token">ⓒ</span><m:math><m:mspace width="0.2em"/><m:mtext>$2.50</m:mtext></m:math> for <m:math><m:mn>8</m:mn></m:math> ounces is equivalent to <m:math><m:mtext>$3.75</m:mtext></m:math> for <m:math><m:mn>12</m:mn></m:math> ounces.</item>
+</list></para></problem>
+<solution id="fs-id1956784">
+<para id="fs-id1495629"><list id="eip-id1168468266813" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>20</m:mn><m:mn>36</m:mn></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>7</m:mn><m:mn>11</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>28</m:mn><m:mn>44</m:mn></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+
+
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mn>2.50</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>3.75</m:mn><m:mn>12</m:mn></m:mfrac><m:mspace width="0.2em"/></m:math></item></list></para></solution>
+</exercise>
+</note>
+<note id="fs-id1342068" class="try">
+<exercise id="fs-id1580825">
+<problem id="fs-id1746360">
+<para id="fs-id1166492788998">Write each sentence as a proportion:
+
+<list id="eip-id1168469756973" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>6</m:mn></m:math> is to <m:math><m:mn>7</m:mn></m:math> as <m:math><m:mn>36</m:mn></m:math> is to <m:math><m:mn>42</m:mn><m:mo>.</m:mo></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>8</m:mn></m:math> adults for <m:math><m:mn>36</m:mn></m:math> children is the same as <m:math><m:mn>12</m:mn></m:math> adults for <m:math><m:mn>54</m:mn></m:math> children.</item>
+
+<item><span class="token">ⓒ</span><m:math><m:mspace width="0.2em"/><m:mtext>$3.75</m:mtext></m:math> for <m:math><m:mn>6</m:mn></m:math> ounces is equivalent to <m:math><m:mtext>$2.50</m:mtext></m:math> for <m:math><m:mn>4</m:mn></m:math> ounces.</item></list></para></problem>
+<solution id="fs-id1166497327081">
+<para id="fs-id1166494758956"><list id="eip-id1168468264488" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>36</m:mn><m:mn>42</m:mn></m:mfrac></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>8</m:mn><m:mn>36</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>12</m:mn><m:mn>54</m:mn></m:mfrac></m:math></item>
+
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mn>3.75</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>2.50</m:mn><m:mn>4</m:mn></m:mfrac></m:math></item></list></para></solution>
+</exercise>
+</note>
+<para id="fs-id1097912">Look at the proportions <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> From our work with equivalent fractions we know these equations are true. But how do we know if an equation is a proportion with equivalent fractions if it contains fractions with larger numbers?</para>
+<para id="eip-924">There are many different ways to know. One is to divide the fractions on each side of the equation and see if they are equal. Another way is to change one or both of the fractions so that they have a common denominator so that the numerators will tell us if they are equivalent. For example, both fractions could be reduced to lowest terms.</para><para id="fs-id1166498443767">Another way is to find the <emphasis effect="bold">cross products</emphasis> of a proportion. You may have seen this method before. It isn't always the quickest method, but it does change the equation with two divisions (fractions) into an equation with two multiplications, and some people prefer that.<newline/>
+<newline/>
+Multiply each denominator with the opposite numerator (diagonally across the equal sign). The results are called cross products because of the cross formed. The cross products of a proportion are equal.</para><media id="fs-id1731746" alt="The figure shows cross multiplication of two proportions. There is the proportion 1 is to 2 as 4 is to 8. Arrows are shown diagonally across the equal sign to show cross products. The equations formed by cross multiplying are 8 · 1 = 8 and 2 · 4 = 8. There is the proportion 2 is to 3 as 6 is to 9. Arrows are shown diagonally across the equal sign to show cross products. The equations formed by cross multiplying are 9 · 2 = 18 and 3 · 6 = 18.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_028_img.jpg"/>
+</media>
+<note id="fs-id1166489098476">
+<title>Cross Products of a Proportion</title>
+<para id="fs-id1517408">For any proportion of the form <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow><m:mrow><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> its cross products are equal.</para>
+<media id="fs-id1166494770801" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_003_img.jpg"/>
+</media>
+</note>
+<para id="fs-id1501697"><title>Why does Cross Multiplying Work?</title>The Multiplication Property of Equality allows us to multiply both sides of the equation by both <m:math><m:mi>b</m:mi></m:math> and <m:math><m:mi>d</m:mi></m:math>. This cancels both denominators and the result is exactly the same as cross multiplying. On the left side the <m:math><m:mi>b</m:mi></m:math> s cancel and it simplifies to <m:math><m:mi>a</m:mi><m:mo>·</m:mo><m:mi>d</m:mi></m:math>. On the right side the <m:math><m:mi>d</m:mi></m:math> s cancel and it simplifies to <m:math><m:mi>b</m:mi><m:mo>·</m:mo><m:mi>c</m:mi></m:math>.
+
+<newline/>
+<newline/>
+
+<media id="eip-idm432585600" alt="No Alt Text">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_FigureX.jpg"/>
+</media></para><example id="fs-id1470247">
+<exercise id="fs-id1166493760956"><problem id="fs-id1476424">
+<para id="fs-id1166497362535">Determine whether each equation is a proportion: 
+
+<list id="eip-id1168466230295" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>12</m:mn><m:mn>28</m:mn></m:mfrac></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mn>17.5</m:mn><m:mn>37.5</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>15</m:mn></m:mfrac></m:math></item></list></para></problem>
+<solution id="fs-id1946221">
+<title>Solution</title>
+<para id="fs-id1491625">To determine if the equation is a proportion, we find the cross products. If they are equal, the equation is a proportion.</para>
+<table id="eip-id1168468703669" class="unnumbered unstyled" summary="The figure shows the steps to finding the cross products of the proportion 4 is to 9 as 12 is to 28. The cross multiplication shown is 28 times 4 = 112 and 9 times 12 = 28."><label/>
+<tgroup cols="2"><tbody>
+
+ <row>
+   <entry><span class="token">ⓐ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+   <entry><media id="eip-id1168467196647" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_020_img-01.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Find the cross products.</entry>
+ <entry><m:math><m:mn>28</m:mn><m:mo>⋅</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>112</m:mn><m:mspace width="2em"/><m:mn>9</m:mn><m:mo>⋅</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>108</m:mn></m:math><newline/><media id="eip-id1168467113660" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_020_img-02.png"/></media></entry>
+ </row>
+
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1166481190972">Since the cross products are not equal, <m:math><m:mrow><m:mn>28</m:mn><m:mo>·</m:mo><m:mn>4</m:mn><m:mo>≠</m:mo><m:mn>9</m:mn><m:mo>·</m:mo><m:mn>12</m:mn><m:mo>,</m:mo></m:mrow></m:math> the equation is not a proportion.</para>
+
+
+<table id="eip-id1168469699712" class="unnumbered unstyled" summary="The figure shows the steps to finding the cross products of the proportion 17.5 is to 37.5 as 7 is to 15. The cross multiplication shown is 15 times 17.5 = 262.5 and 37.5 times 7 = 262.5."><label/>
+<tgroup cols="2"><tbody>
+
+ <row>
+   <entry><span class="token">ⓑ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+   <entry><media id="eip-id1168469613430" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_021_img-01.png"/>
+</media></entry>
+ </row>
+
+ <row> 
+ <entry>Find the cross products.</entry>
+ <entry><m:math><m:mn>15</m:mn><m:mo>⋅</m:mo><m:mn>17.5</m:mn><m:mo>=</m:mo><m:mn>262.5</m:mn><m:mspace width="2em"/><m:mn>37.5</m:mn><m:mo>⋅</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>262.5</m:mn></m:math><newline/>
+<media id="eip-id1168466166406" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_021_img-02.png"/>
+</media></entry>
+ </row>
+
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1956342">Since the cross products are equal, <m:math><m:mrow><m:mn>15</m:mn><m:mo>·</m:mo><m:mn>17.5</m:mn><m:mo>=</m:mo><m:mn>37.5</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>,</m:mo></m:mrow></m:math> the equation is a proportion.</para>
+</solution>
+</exercise></example>
+<note id="fs-id1166491298462" class="try">
+<exercise id="fs-id1947756">
+<problem id="fs-id1431411">
+<para id="fs-id1359170">Determine whether each equation is a proportion: 
+
+<list id="eip-id1168468436941" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>54</m:mn><m:mn>72</m:mn></m:mfrac></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mn>24.5</m:mn><m:mn>45.5</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>13</m:mn></m:mfrac></m:math></item></list></para></problem>
+<solution id="fs-id1166482688691">
+<para id="fs-id1693879"><list id="eip-id1168468413917" list-type="enumerated" number-style="arabic" class="circled"><item>ⓐ no</item><item>ⓑ yes</item></list></para></solution>
+</exercise>
+</note>
+<note id="fs-id1516209" class="try">
+<exercise id="fs-id1166491402220">
+<problem id="fs-id1166491773221">
+<para id="fs-id1524290">Determine whether each equation is a proportion: <list id="eip-id1168469862280" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>8</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>56</m:mn></m:mrow><m:mrow><m:mn>73</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>28.5</m:mn></m:mrow><m:mrow><m:mn>52.5</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>15</m:mn></m:mfrac></m:math></item></list></para></problem>
+<solution id="fs-id1166491409575">
+<para id="fs-id1166490822848"><list id="eip-id1168465999118" list-type="enumerated" number-style="arabic" class="circled"><item>ⓐ no </item><item>ⓑ no </item></list></para></solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1166490756517">
+<title>Solve Proportions</title>
+<para id="fs-id1166491085133">To solve a proportion containing a variable, we remember that the proportion is an equation. All of the techniques we have used so far to solve equations still apply. In the next example, we will solve a proportion by multiplying by the <term class="no-emphasis">Least Common Denominator</term> (LCD) using the <term class="no-emphasis">Multiplication Property of Equality</term>.</para>
+<example id="fs-id1166492887204">
+<exercise id="fs-id1685112"><problem id="fs-id1944367">
+<para id="fs-id1166494756631">Solve: <m:math><m:mrow><m:mfrac><m:mi>x</m:mi><m:mrow><m:mn>63</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1626522">
+<title>Solution</title>
+<table id="eip-id1168468652606" class="unnumbered unstyled" summary="The figure shows the steps to finding the cross products of the proportion 17.5 is to 37.5 as 7 is to 15. The cross multiplication shown is 15 times 17.5 = 262.5 and 37.5 times 7 = 262.5."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/><tbody>
+
+<row> <entry namest="c1" nameend="c2"/>
+<entry><media id="eip-id1168468337952" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-01.png"/> </media></entry>
+</row>
+
+ <row>
+   <entry namest="c1" nameend="c2"> To isolate <m:math><m:mi>x</m:mi></m:math>, multiply both sides by the LCD, 63. </entry>
+   <entry><media id="eip-id1168467155871" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-02.png"/> </media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Simplify.</entry>
+ <entry><media id="eip-id1168468412228" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-03.png"/> </media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Divide the common factors.</entry>
+ <entry><media id="eip-id1168467599001" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-04.png"/> </media></entry>
+ </row>
+
+ <row> 
+ <entry>Check: To check our answer, we substitute into the original proportion. </entry>
+<entry/>
+<entry/>
+</row>
+<row>
+ <entry/>
+ <entry><media id="eip-id1168468458237" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-05.png"/> </media></entry>
+ <entry/>
+ </row>
+
+ <row>
+ <entry align="left"><media id="eip-id1168468772331" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_023_img-09.png"/> </media></entry>
+ <entry><media id="eip-id1168468781355" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-06.png"/> </media></entry>
+ <entry/>
+ </row>
+
+ <row>
+ <entry>Show common factors. </entry>
+ <entry><media id="eip-id1168468350523" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-07.png"/> </media></entry>
+ <entry/>
+ </row>
+ 
+ <row>
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168468774250" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_022_img-08.png"/> </media></entry>
+ <entry/>
+ </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166489101462" class="try">
+<exercise id="fs-id1234367">
+<problem id="fs-id1468830">
+<para id="fs-id1166495278671">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>84</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166491297432">
+<para id="fs-id1240488">77</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1471072" class="try">
+<exercise id="fs-id1166498435818">
+<problem id="fs-id1435915">
+<para id="fs-id1425486">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mi>y</m:mi><m:mrow><m:mn>96</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>13</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1502753">
+<para id="fs-id1166497376093">104</para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1166491401870">When the variable is in a denominator, we’ll use the fact that the <term class="no-emphasis">cross products</term> of a proportion are equal to solve the proportions. </para><para id="eip-247">We can find the cross products of the proportion and then set them equal. Then we solve the resulting equation using our familiar techniques.</para><example id="fs-id1166497375779">
+<exercise id="fs-id1691862"><problem id="fs-id1445776">
+<para id="fs-id1251260">Solve: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>144</m:mn></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1356436">
+<title>Solution</title>
+<para id="fs-id1166497245846">Notice that the variable is in the denominator, so we will solve by finding the cross products and setting them equal.</para><table id="eip-id1168469872045" class="unnumbered unstyled" summary="The figure shows the steps to solve the proportion 144 is to a as 9 is to 4 using cross multiplication. It shows how the cross products are found and set equal to one another. The result is 4 times 144 = a times 9. The equation is simplified to 576 = 9 times a. Both sides of the equation is divided by 9. When simplified, the result is 64 = a. The figure shows the steps to checking that a = 64 is the solution to the proportion 144 is to a as 9 is to 4. It shows 64 being substituted for a in the proportion. The proportion becomes 144 is to 64 as 9 is to 4. The common factors in the proportion are shown. The proportion becomes 9 times 16 is to 4 times 16 as 9 is to 4. The proportion is simplified to 9 is to 4 as 9 is to 4. So the solution a = 64 is correct."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/><tbody>
+
+<row> 
+<entry namest="c1" nameend="c2"/>
+<entry><media id="eip-id1168469485492" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-01.png"/></media></entry>
+</row>
+
+ <row>
+   <entry namest="c1" nameend="c2"> Find the cross products and set them equal.</entry>
+   <entry><media id="eip-id1168468280034" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-02.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Simplify.</entry>
+ <entry><media id="eip-id1168467308916" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-03.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Divide both sides by 9.</entry>
+ <entry><media id="eip-id1168468436933" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Simplify.</entry>
+ <entry><media id="eip-id1168468436950" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-05.png"/></media></entry>
+ </row>
+<row>
+	<entry>Check your answer. </entry>
+	<entry/>
+	<entry/>
+</row>
+<row> 
+<entry/>
+<entry><media id="eip-id1168468445856" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-01.png"/></media></entry>
+	<entry/>
+</row>
+
+ <row>
+   <entry align="left"><media id="eip-id1168469472298" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-02.png"/></media></entry>
+   <entry><media id="eip-id1168466275924" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-03.png"/></media></entry>
+   	<entry/>
+ </row>
+
+ <row> 
+ <entry>Show common factors..</entry>
+ <entry><media id="eip-id1168469868535" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-04.png"/></media></entry>
+ 	<entry/>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168467313516" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-05.png"/></media></entry>
+ 	<entry/>
+ </row>
+
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id1166478994858">Another method to solve this would be to multiply both sides by the LCD, <m:math><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:mo>.</m:mo></m:mrow></m:math> Try it and verify that you get the same solution.</para>
+</solution>
+</exercise></example>
+<note id="fs-id1166490805831" class="try">
+<exercise id="fs-id1478601">
+<problem id="fs-id1236975">
+<para id="fs-id1341194">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>91</m:mn></m:mrow><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id828983">
+<para id="fs-id994403">65</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1166492887513" class="try">
+<exercise id="fs-id1096940">
+<problem id="fs-id1513787">
+<para id="fs-id1166497132799">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>39</m:mn></m:mrow><m:mi>c</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>13</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1684481">
+<para id="fs-id1947174">24</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1166482427016">
+<exercise id="fs-id1526037"><problem id="fs-id1478962">
+<para id="fs-id1217253">Solve: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>52</m:mn></m:mrow><m:mrow><m:mn>91</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−4</m:mn></m:mrow><m:mi>y</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1499285">
+<title>Solution</title>
+<table id="eip-id1168469612644" class="unnumbered unstyled" summary="The figure shows the steps to solve the proportion 52 is to 91 as -4 is to y using cross multiplication. It shows how the cross products are found and set equal to one another to form the equation y times 52 equals 91 times negative 4. When simplified, the equation becomes 52 times y = negative 364. Both sides of the equation are divided by 52. When simplified, the result is y = negative 7. The figure shows the steps to checking that y = negative 7 is the solution to the proportion 52 to 91 as negative 4 is to y. It shows negative 7 being substituted for y in the proportion. The proportion becomes 52 is to 91 as -4 is to y. The common factors in the proportion are shown. The proportion becomes 13 times 4 is to 13 times 7 as negative 4 is to negative 7. The proportion is simplified to 4 is to 7 as 4 is to 7. So the solution y= negative 7 is correct."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/><tbody>
+
+<row>
+<entry namest="c1" nameend="c2"> Find the cross products and set them equal. </entry>
+<entry><media id="eip-id1168466200955" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-02.png"/></media></entry>
+</row>
+
+<row> 
+<entry namest="c1" nameend="c2"/>
+<entry><media id="eip-id1168469446628" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry namest="c1" nameend="c2">Simplify.</entry>
+   <entry><media id="eip-id1168466590965" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Divide both sides by 52.</entry>
+ <entry><media id="eip-id1168466126960" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-05.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry namest="c1" nameend="c2">Simplify.</entry>
+ <entry><media id="eip-id1168466126977" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-06.png"/></media></entry>
+ </row>
+
+<row>
+<entry> Check: </entry>
+<entry/><entry/>
+</row>
+<row>
+<entry/>
+<entry><media id="eip-id1168465991847" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-01.png"/></media></entry><entry/>
+</row>
+
+<row> 
+<entry align="left"><media id="eip-id1168469440416" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-02.png"/></media></entry>
+<entry><media id="eip-id1168469631391" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-03.png"/></media></entry><entry/>
+</row>
+
+ <row>
+   <entry>Show common factors.</entry>
+   <entry><media id="eip-id1168469603779" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-04.png"/></media></entry><entry/>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168466047201" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-05.png"/></media></entry><entry/>
+ </row>
+
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166494584879" class="try">
+<exercise id="fs-id1166490854296">
+<problem id="fs-id1154248">
+<para id="fs-id2053972">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>84</m:mn></m:mrow><m:mrow><m:mn>98</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−6</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497424916">
+<para id="fs-id1166490859194">−7</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1454652" class="try">
+<exercise id="fs-id1166492357298">
+<problem id="fs-id1457800">
+<para id="fs-id1444101">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>−7</m:mn></m:mrow><m:mi>y</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>105</m:mn></m:mrow><m:mrow><m:mn>135</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1723345">
+<para id="fs-id1304688">−9</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1768035">
+<title>Solve Applications Using Proportions</title>
+<para id="fs-id1835884">The strategy for solving applications that we have used earlier in this chapter, also works for proportions, since proportions are equations. When we set up the <term class="no-emphasis">proportion</term>, we must make sure the units are correct—the units in the numerators match and the units in the denominators match.</para>
+<example id="fs-id1317627">
+<exercise id="fs-id1166492771249"><problem id="fs-id1471445">
+<para id="fs-id1166490858421">When pediatricians prescribe acetaminophen to children, they prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (ml) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of the child’s weight. If Zoe weighs <m:math><m:mn>80</m:mn></m:math> pounds, how many milliliters of acetaminophen will her doctor prescribe?</para>
+</problem>
+<solution id="fs-id1486412">
+<title>Solution</title>
+<table id="eip-id1168468389749" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry> Identify what you are asked to find. </entry>
+<entry>How many ml of acetaminophen the doctor will prescribe</entry>
+</row>
+
+<row>
+<entry> Choose a variable to represent it. </entry>
+<entry>Let <m:math><m:mi>a</m:mi><m:mo>=</m:mo></m:math> ml of acetaminophen.</entry>
+</row>
+
+<row> 
+<entry>Write a sentence that gives the information to find it.</entry>
+<entry>If 5 ml is prescribed for every 25 pounds, how much will be prescribed for 80 pounds?</entry>
+</row>
+
+ <row>
+   <entry>Translate into a proportion.</entry>
+   <entry><media id="eip-id1168466156855" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_001_img-01.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Substitute given values—be careful of the units.</entry>
+ <entry><media id="eip-id1168466091684" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_001_img-02.png"/></media></entry>
+ </row>
+
+<row> 
+ <entry>Multiply both sides by 80.</entry>
+ <entry><media id="eip-id1168469591120" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_001_img-03.png"/></media></entry>
+ </row>
+
+ <row>
+ <entry> Multiply and show common factors. </entry>
+ <entry><media id="eip-id1168469771390" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_001_img-04.png"/></media></entry>
+ </row>
+
+ <row>
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168469832672" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_001_img-05.png"/></media></entry>
+ </row>
+<row>
+<entry> Check if the answer is reasonable. </entry>
+<entry/>
+</row>
+
+<row>
+<entry> Yes. Since 80 is about 3 times 25, the medicine should be about 3 times 5. </entry>
+<entry/>
+</row>
+
+<row>
+<entry> Write a complete sentence. </entry>
+<entry> The pediatrician would prescribe 16 ml of acetaminophen to Zoe. </entry>
+</row>
+
+
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id1407319">You could also solve this proportion by setting the cross products equal.</para>
+</solution>
+</exercise></example>
+<note id="fs-id1407584" class="try">
+<exercise id="fs-id1549510">
+<problem id="fs-id1166494585593">
+<para id="fs-id1166497376317">Pediatricians prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (ml) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Emilia, who weighs <m:math><m:mn>60</m:mn></m:math> pounds?</para>
+</problem>
+<solution id="fs-id1693654">
+<para id="fs-id1559865">12 ml</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1362320" class="try">
+<exercise id="fs-id1524849">
+<problem id="fs-id1105678">
+<para id="fs-id1166498099744">For every <m:math><m:mn>1</m:mn></m:math> kilogram (kg) of a child’s weight, pediatricians prescribe <m:math><m:mn>15</m:mn></m:math> milligrams (mg) of a fever reducer. If Isabella weighs <m:math><m:mn>12</m:mn></m:math> kg, how many milligrams of the fever reducer will the pediatrician prescribe?</para>
+</problem>
+<solution id="fs-id1272528">
+<para id="fs-id1166498083281">180 mg</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id829816">
+<exercise id="fs-id1438347"><problem id="fs-id1166495836173">
+<para id="fs-id1166498049903">One brand of microwave popcorn has <m:math><m:mn>120</m:mn></m:math> calories per serving. A whole bag of this popcorn has <m:math><m:mn>3.5</m:mn></m:math> servings. How many calories are in a whole bag of this microwave popcorn?</para>
+</problem>
+<solution id="fs-id1518056">
+<title>Solution</title>
+<table id="eip-id1168466068741" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry>Identify what you are asked to find. </entry>
+<entry>How many calories are in a whole bag of microwave popcorn?</entry>
+</row>
+
+<row>
+<entry>Choose a variable to represent it. </entry>
+<entry>Let <m:math><m:mi>c</m:mi><m:mo>=</m:mo></m:math> number of calories.</entry>
+</row>
+
+<row> 
+<entry>Write a sentence that gives the information to find it.</entry>
+<entry>If there are 120 calories per serving, how many calories are in a whole bag with 3.5 servings?</entry>
+</row>
+
+ <row>
+   <entry>Translate into a proportion.</entry>
+   <entry><media id="eip-id1168467560815" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_002_img-01.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Substitute given values.</entry>
+ <entry><media id="eip-id1168467560833" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_002_img-02.png"/></media></entry>
+ </row>
+
+<row> 
+ <entry>Multiply both sides by 3.5.</entry>
+ <entry><media id="eip-id1168468371113" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_002_img-03.png"/></media></entry>
+ </row>
+
+ <row>
+ <entry>Multiply.</entry>
+ <entry><media id="eip-id1168467360492" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_002_img-04.png"/></media></entry>
+ </row>
+<row>
+<entry> Check if the answer is reasonable. </entry>
+<entry/>
+</row>
+
+<row>
+<entry> Yes. Since 3.5 is between 3 and 4, the total calories should be between 360 (3⋅120) and 480 (4⋅120). </entry>
+<entry/>
+</row>
+<row>
+<entry> Write a complete sentence. </entry>
+<entry> The whole bag of microwave popcorn has 420 calories. </entry>
+</row>
+
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166492002952" class="try">
+<exercise id="fs-id1542650">
+<problem id="fs-id1693820">
+<para id="fs-id1412760">Marissa loves the Caramel Macchiato at the coffee shop. The <m:math><m:mn>16</m:mn></m:math> oz. medium size has <m:math><m:mn>240</m:mn></m:math> calories. How many calories will she get if she drinks the large <m:math><m:mn>20</m:mn></m:math> oz. size?</para>
+</problem>
+<solution id="fs-id1472106">
+<para id="fs-id1729173">300</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1166484085408" class="try">
+<exercise id="fs-id1319706">
+<problem id="fs-id1166497293562">
+<para id="fs-id1302757">Yaneli loves Starburst candies, but wants to keep her snacks to <m:math><m:mn>100</m:mn></m:math> calories. If the candies have <m:math><m:mn>160</m:mn></m:math> calories for <m:math><m:mn>8</m:mn></m:math> pieces, how many pieces can she have in her snack?</para>
+</problem>
+<solution id="fs-id1166478988848">
+<para id="fs-id1166476800210">5</para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1166494760094">
+<exercise id="fs-id1166493708616"><problem id="fs-id1166492709163">
+<para id="fs-id1166490858582">Josiah went to Mexico for spring break and changed <m:math><m:mtext>$325</m:mtext></m:math> dollars into Mexican pesos. At that time, the exchange rate had <m:math><m:mtext>$1</m:mtext></m:math> U.S. is equal to <m:math><m:mn>12.54</m:mn></m:math> Mexican pesos. How many Mexican pesos did he get for his trip?</para>
+</problem>
+<solution id="fs-id1166482704727">
+<title>Solution</title>
+<table id="eip-id1168469868734" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry>Identify what you are asked to find. </entry>
+<entry>How many Mexican pesos did Josiah get?</entry>
+</row>
+
+<row>
+<entry>Choose a variable to represent it. </entry>
+<entry>Let <m:math><m:mi>p</m:mi><m:mo>=</m:mo></m:math> number of pesos.</entry>
+</row>
+
+<row> 
+<entry>Write a sentence that gives the information to find it.</entry>
+<entry>If $1 U.S. is equal to 12.54 Mexican pesos, then $325 is how many pesos?</entry>
+</row>
+
+ <row>
+   <entry>Translate into a proportion.</entry>
+   <entry><media id="eip-id1168468387263" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_003_img-01.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Substitute given values.</entry>
+ <entry><media id="eip-id1168467114088" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_003_img-02.png"/></media></entry>
+ </row>
+
+<row> 
+ <entry>The variable is in the denominator, so find the cross products and set them equal.</entry>
+ <entry><media id="eip-id1168467352665" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_003_img-03.png"/></media></entry>
+ </row>
+
+ <row>
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168467352682" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_003_img-04.png"/></media></entry>
+ </row>
+<row>
+<entry> Check if the answer is reasonable. </entry>
+<entry/>
+</row>
+
+<row>
+<entry> Yes, $100 would be $1,254 pesos. $325 is a little more than 3 times this amount. 
+</entry>
+<entry/>
+</row>
+<row>
+<entry> Write a complete sentence. </entry>
+<entry> Josiah has 4075.5 pesos for his spring break trip. </entry>
+</row>
+
+
+</tbody>
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1511973" class="try">
+<exercise id="fs-id1454987">
+<problem id="fs-id1326835">
+<para id="fs-id1166492357407">Yurianna is going to Europe and wants to change <m:math><m:mtext>$800</m:mtext></m:math> dollars into Euros. At the current exchange rate, <m:math><m:mtext>$1</m:mtext></m:math> US is equal to <m:math><m:mn>0.738</m:mn></m:math> Euro. How many Euros will she have for her trip?</para>
+</problem>
+<solution id="fs-id1446248">
+<para id="fs-id1833449">590 Euros</para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1397896" class="try">
+<exercise id="fs-id1305755">
+<problem id="fs-id1573576">
+<para id="fs-id1511468">Corey and Nicole are traveling to Japan and need to exchange <m:math><m:mtext>$600</m:mtext></m:math> into Japanese yen. If each dollar is <m:math><m:mn>94.1</m:mn></m:math> yen, how many yen will they get?</para>
+</problem>
+<solution id="fs-id1358648">
+<para id="fs-id1166492018448">56,460 yen</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="eip-684"><title>Key Concepts</title><list id="fs-id1166498049771" list-type="bulleted" bullet-style="bullet"><item><emphasis>Proportion</emphasis>
+<list id="eip-id4505152"><item>A proportion is an equation of the form <m:math><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac></m:math>, where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, <m:math><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>.The proportion states two ratios or rates are equal. The proportion is read “<m:math><m:mi>a</m:mi></m:math> is to <m:math><m:mi>b</m:mi></m:math>, as <m:math><m:mi>c</m:mi></m:math> is to  <m:math><m:mi>d</m:mi></m:math>”.</item></list></item>
+<item><emphasis>Cross Products of a Proportion</emphasis>
+<list id="eip-id1166665440339"><item>For any proportion of the form <m:math><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac></m:math>, where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, <m:math><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, its cross products are equal: <m:math><m:mi>a</m:mi><m:mo>⋅</m:mo><m:mi>d</m:mi><m:mo>=</m:mo><m:mi>b</m:mi><m:mo>⋅</m:mo><m:mi>c</m:mi></m:math>.</item></list></item>
+
+</list></section><section id="fs-id1506025" class="section-exercises">
+<title>Section Exercises</title><section id="fs-id1387169" class="practice-perfect"><title>Practice Makes Perfect</title><para id="fs-id1166497196103"><emphasis effect="bold">Use the Definition of Proportion</emphasis> </para><para id="eip-388">In the following exercises, write each sentence as a proportion.</para><exercise id="fs-id1166491412492">
+<problem id="fs-id1166493772287">
+<para id="fs-id1166497409027"><m:math><m:mn>4</m:mn></m:math> is to <m:math><m:mn>15</m:mn></m:math> as <m:math><m:mn>36</m:mn></m:math> is to <m:math><m:mrow><m:mn>135</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166498435948">
+<para id="fs-id1296874"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>135</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id834938">
+<problem id="fs-id1541777">
+<para id="fs-id1807993"><m:math><m:mn>7</m:mn></m:math> is to <m:math><m:mn>9</m:mn></m:math> as <m:math><m:mn>35</m:mn></m:math> is to <m:math><m:mrow><m:mn>45</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1878101">
+<problem id="fs-id1166491232829">
+<para id="fs-id1166484059019"><m:math><m:mn>12</m:mn></m:math> is to <m:math><m:mn>5</m:mn></m:math> as <m:math><m:mn>96</m:mn></m:math> is to <m:math><m:mn>40</m:mn><m:mo>.</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166484125386">
+<para id="fs-id1166493760471"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>96</m:mn></m:mrow><m:mrow><m:mn>40</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1480443">
+<problem id="fs-id1166498436487">
+<para id="fs-id1856582"><m:math><m:mn>15</m:mn></m:math> is to <m:math><m:mn>8</m:mn></m:math> as <m:math><m:mn>75</m:mn></m:math> is to <m:math><m:mn>40</m:mn><m:mo>.</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166494584994">
+<problem id="fs-id1166494584996">
+<para id="fs-id1557781"><m:math><m:mn>5</m:mn></m:math> wins in <m:math><m:mn>7</m:mn></m:math> games is the same as <m:math><m:mn>115</m:mn></m:math> wins in <m:math><m:mn>161</m:mn></m:math> games.</para>
+</problem>
+<solution id="fs-id1856609">
+<para id="fs-id1314392"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>115</m:mn></m:mrow><m:mrow><m:mn>161</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1877550">
+<problem id="fs-id1166492494436">
+<para id="fs-id1166492711560"><m:math><m:mn>4</m:mn></m:math> wins in <m:math><m:mn>9</m:mn></m:math> games is the same as <m:math><m:mn>36</m:mn></m:math> wins in <m:math><m:mn>81</m:mn></m:math> games.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166484081238">
+<problem id="fs-id1166497442831">
+<para id="fs-id1166497442833"><m:math><m:mn>8</m:mn></m:math> campers to <m:math><m:mn>1</m:mn></m:math> counselor is the same as <m:math><m:mn>48</m:mn></m:math> campers to <m:math><m:mn>6</m:mn></m:math> counselors.</para>
+</problem>
+<solution id="fs-id1944736">
+<para id="fs-id1946296"><m:math><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>1</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>48</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1287474">
+<problem id="fs-id1166493707003">
+<para id="fs-id1166493707005"><m:math><m:mn>6</m:mn></m:math> campers to <m:math><m:mn>1</m:mn></m:math> counselor is the same as <m:math><m:mn>48</m:mn></m:math> campers to <m:math><m:mn>8</m:mn></m:math> counselors.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497454171">
+<problem id="fs-id1166491984797">
+<para id="fs-id1166490854117"><m:math><m:mtext>$9.36</m:mtext></m:math> for <m:math><m:mn>18</m:mn></m:math> ounces is the same as <m:math><m:mtext>$2.60</m:mtext></m:math> for <m:math><m:mn>5</m:mn></m:math> ounces.</para>
+</problem>
+<solution id="fs-id1303501">
+<para id="fs-id1338050"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>9.36</m:mn></m:mrow><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2.60</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1525852">
+<problem id="fs-id1454891">
+<para id="fs-id1454894"><m:math><m:mtext>$3.92</m:mtext></m:math> for <m:math><m:mn>8</m:mn></m:math> ounces is the same as <m:math><m:mtext>$1.47</m:mtext></m:math> for <m:math><m:mn>3</m:mn></m:math> ounces.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490839336">
+<problem id="fs-id1166490839338">
+<para id="fs-id1166492494445"><m:math><m:mtext>$18.04</m:mtext></m:math> for <m:math><m:mn>11</m:mn></m:math> pounds is the same as <m:math><m:mtext>$4.92</m:mtext></m:math> for <m:math><m:mn>3</m:mn></m:math> pounds.</para>
+</problem>
+<solution id="fs-id1730364">
+<para id="fs-id1626563"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>18.04</m:mn></m:mrow><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>4.92</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1314221">
+<problem id="fs-id1166491226749">
+<para id="fs-id1166491226751"><m:math><m:mtext>$12.42</m:mtext></m:math> for <m:math><m:mn>27</m:mn></m:math> pounds is the same as <m:math><m:mtext>$5.52</m:mtext></m:math> for <m:math><m:mn>12</m:mn></m:math> pounds.</para>
+</problem>
+</exercise>
+<para id="fs-id1543474">In the following exercises, determine whether each equation is a proportion.</para><exercise id="fs-id1166478987596">
+<problem id="fs-id1166478987598">
+<para id="fs-id1166497293909"><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>56</m:mn></m:mrow><m:mrow><m:mn>120</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1878053">
+<para id="fs-id1878056">yes</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166491764140">
+<problem id="fs-id1166491764142">
+<para id="fs-id1166492881924"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>45</m:mn></m:mrow><m:mrow><m:mn>108</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490916786">
+<problem id="fs-id1166490916788">
+<para id="fs-id1479989"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>21</m:mn></m:mrow><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1506229">
+<para id="fs-id1506231">no</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166479044371">
+<problem id="fs-id1166479044374">
+<para id="fs-id1166490873942"><m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>39</m:mn></m:mrow><m:mrow><m:mn>34</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166492887156">
+<problem id="fs-id1166492887158">
+<para id="fs-id1166489098579"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>4.99</m:mn></m:mrow><m:mrow><m:mn>7.56</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497417139">
+<para id="fs-id1166497417141">no</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166494704867">
+<problem id="fs-id1166494704869">
+<para id="fs-id1681293"><m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2.16</m:mn></m:mrow><m:mrow><m:mn>3.89</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1736670">
+<problem id="fs-id1736672">
+<para id="fs-id1166491985062"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>13.5</m:mn></m:mrow><m:mrow><m:mn>8.5</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>31.05</m:mn></m:mrow><m:mrow><m:mn>19.55</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166491085479">
+<para id="fs-id1166491984914">yes</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497362506">
+<problem id="fs-id1166497362508">
+<para id="fs-id1166492761748"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>10.1</m:mn></m:mrow><m:mrow><m:mn>8.4</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>3.03</m:mn></m:mrow><m:mrow><m:mn>2.52</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id2053928"><emphasis effect="bold">Solve Proportions</emphasis> </para><para id="eip-940">In the following exercises, solve each proportion.</para><exercise id="fs-id1166490873748">
+<problem id="fs-id1166490873750">
+<para id="fs-id1832655"><m:math><m:mrow><m:mfrac><m:mi>x</m:mi><m:mrow><m:mn>56</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1948440">
+<para id="fs-id1948442">49</para>
+</solution>
+</exercise>
+<exercise id="fs-id1856456">
+<problem id="fs-id1856458">
+<para id="fs-id1856460"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>91</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>13</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1332920">
+<problem id="fs-id1332922">
+<para id="fs-id1332925"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>49</m:mn></m:mrow><m:mrow><m:mn>63</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>z</m:mi><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166476784575">
+<para id="fs-id1166476784577">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id1055640">
+<problem id="fs-id1055642">
+<para id="fs-id1166491053836"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>56</m:mn></m:mrow><m:mrow><m:mn>72</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>y</m:mi><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166491052667">
+<problem id="fs-id1166491052669">
+<para id="fs-id1731805"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>65</m:mn></m:mrow><m:mrow><m:mn>117</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166490874419">
+<para id="fs-id1166490874421">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166491228338">
+<problem id="fs-id1166489102125">
+<para id="fs-id1166489102128"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>64</m:mn></m:mrow><m:mrow><m:mn>144</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497191913">
+<problem id="fs-id1321657">
+<para id="fs-id1321660"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>98</m:mn></m:mrow><m:mrow><m:mn>154</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−7</m:mn></m:mrow><m:mi>p</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497277650">
+<para id="fs-id1166497277653">−11</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166495278483">
+<problem id="fs-id1166495278485">
+<para id="fs-id1166495278487"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>72</m:mn></m:mrow><m:mrow><m:mn>156</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−6</m:mn></m:mrow><m:mi>q</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497196429">
+<problem id="fs-id1166493276399">
+<para id="fs-id1166493276401"><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mn>−8</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−42</m:mn></m:mrow><m:mrow><m:mn>48</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1899661">
+<para id="fs-id1899663">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id1341444">
+<problem id="fs-id657328">
+<para id="fs-id657330"><m:math><m:mrow><m:mfrac><m:mi>b</m:mi><m:mrow><m:mn>−7</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−30</m:mn></m:mrow><m:mrow><m:mn>42</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1512065">
+<problem id="fs-id1166497229409">
+<para id="fs-id1166497229412"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.6</m:mn></m:mrow><m:mrow><m:mn>3.9</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166498433833">
+<para id="fs-id1166491413038">2</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166479038728">
+<problem id="fs-id1166479038730">
+<para id="fs-id1166479038732"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.7</m:mn></m:mrow><m:mrow><m:mn>3.6</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>d</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1535836">
+<problem id="fs-id1535838">
+<para id="fs-id1166491984878"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.7</m:mn></m:mrow><m:mi>j</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0.9</m:mn></m:mrow><m:mrow><m:mn>0.2</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166476814951">
+<para id="fs-id1166476814953">0.6</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492526042">
+<problem id="fs-id1166492526044">
+<para id="fs-id1166492526046"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.8</m:mn></m:mrow><m:mi>k</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2.1</m:mn></m:mrow><m:mrow><m:mn>1.5</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166491084037">
+<problem id="fs-id1166491084039">
+<para id="fs-id1166479028984"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166498049824">
+<para id="fs-id1166498049826">4</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497147320">
+<problem id="fs-id1166497147322">
+<para id="fs-id1166497147324"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mi>n</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1912193"><emphasis effect="bold">Solve Applications Using Proportions</emphasis> </para><para id="eip-371">In the following exercises, solve the proportion problem.</para><exercise id="fs-id1166490773298">
+<problem id="fs-id1166490773300">
+<para id="fs-id1224443">Pediatricians prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (ml) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Jocelyn, who weighs <m:math><m:mn>45</m:mn></m:math> pounds?</para>
+</problem>
+<solution id="fs-id929552">
+<para id="fs-id929554">9 ml</para>
+</solution>
+</exercise>
+<exercise id="fs-id1430195">
+<problem id="fs-id1430197">
+<para id="fs-id1430199">Brianna, who weighs <m:math><m:mn>6</m:mn></m:math> kg, just received her shots and needs a pain killer. The pain killer is prescribed for children at <m:math><m:mn>15</m:mn></m:math> milligrams (mg) for every <m:math><m:mn>1</m:mn></m:math> kilogram (kg) of the child’s weight. How many milligrams will the doctor prescribe?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166483069196">
+<problem id="fs-id1166483069198">
+<para id="fs-id1166483069200">At the gym, Carol takes her pulse for <m:math><m:mn>10</m:mn></m:math> sec and counts <m:math><m:mn>19</m:mn></m:math> beats. How many beats per minute is this? Has Carol met her target heart rate of <m:math><m:mn>140</m:mn></m:math> beats per minute?</para>
+</problem>
+<solution id="fs-id1166484603014">
+<para id="fs-id1166484603016">114, no</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497426002">
+<problem id="fs-id1166497426004">
+<para id="fs-id1166497426006">Kevin wants to keep his heart rate at <m:math><m:mn>160</m:mn></m:math> beats per minute while training. During his workout he counts <m:math><m:mn>27</m:mn></m:math> beats in <m:math><m:mn>10</m:mn></m:math> seconds. How many beats per minute is this? Has Kevin met his target heart rate?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1523438">
+<problem id="fs-id1523440">
+<para id="fs-id1523442">A new energy drink advertises <m:math><m:mn>106</m:mn></m:math> calories for <m:math><m:mn>8</m:mn></m:math> ounces. How many calories are in <m:math><m:mn>12</m:mn></m:math> ounces of the drink?</para>
+</problem>
+<solution id="fs-id1877454">
+<para id="fs-id1166490819968">159 cal</para>
+</solution>
+</exercise>
+<exercise id="fs-id1342865">
+<problem id="fs-id1166491402076">
+<para id="fs-id1166491402078">One <m:math><m:mn>12</m:mn></m:math> ounce can of soda has <m:math><m:mn>150</m:mn></m:math> calories. If Josiah drinks the big <m:math><m:mn>32</m:mn></m:math> ounce size from the local mini-mart, how many calories does he get?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166483684806">
+<problem id="fs-id1523040">
+<para id="fs-id1523042">Karen eats <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> cup of oatmeal that counts for <m:math><m:mn>2</m:mn></m:math> points on her weight loss program. Her husband, Joe, can have <m:math><m:mn>3</m:mn></m:math> points of oatmeal for breakfast. How much oatmeal can he have?</para>
+</problem>
+<solution id="fs-id1790140">
+<para id="fs-id1387607"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext>cup</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1806619">
+<problem id="fs-id1806622">
+<para id="fs-id1806624">An oatmeal cookie recipe calls for <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> cup of butter to make <m:math><m:mn>4</m:mn></m:math> dozen cookies. Hilda needs to make <m:math><m:mn>10</m:mn></m:math> dozen cookies for the bake sale. How many cups of butter will she need?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1368793">
+<problem id="fs-id1368795">
+<para id="fs-id676756">Janice is traveling to Canada and will change <m:math><m:mtext>$250</m:mtext></m:math> US dollars into Canadian dollars. At the current exchange rate, <m:math><m:mtext>$1</m:mtext></m:math> US is equal to <m:math><m:mtext>$1.01</m:mtext></m:math> Canadian. How many Canadian dollars will she get for her trip?</para>
+</problem>
+<solution id="fs-id1763736">
+<para id="fs-id1763738">$252.50</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166490873687">
+<problem id="fs-id1166490873689">
+<para id="fs-id1166497309376">Todd is traveling to Mexico and needs to exchange <m:math><m:mtext>$450</m:mtext></m:math> into Mexican pesos. If each dollar is worth <m:math><m:mn>12.29</m:mn></m:math> pesos, how many pesos will he get for his trip?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166492788457">
+<problem id="fs-id1736173">
+<para id="fs-id1736175">Steve changed <m:math><m:mtext>$600</m:mtext></m:math> into <m:math><m:mn>480</m:mn></m:math> Euros. How many Euros did he receive per US dollar?</para>
+</problem>
+<solution id="fs-id1580722">
+<para id="fs-id1580724">1.25</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166484081145">
+<problem id="fs-id1956745">
+<para id="fs-id1956747">Martha changed <m:math><m:mtext>$350</m:mtext></m:math> US into <m:math><m:mn>385</m:mn></m:math> Australian dollars. How many Australian dollars did she receive per US dollar?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1741849">
+<problem id="fs-id1741851">
+<para id="fs-id1797004">At the laundromat, Lucy changed <m:math><m:mtext>$12.00</m:mtext></m:math> into quarters. How many quarters did she get?</para>
+</problem>
+<solution id="fs-id1790465">
+<para id="fs-id1166498435390">48 quarters</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166494584842">
+<problem id="fs-id1365458">
+<para id="fs-id1365460">When she arrived at a casino, Gerty changed <m:math><m:mtext>$20</m:mtext></m:math> into nickels. How many nickels did she get?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166484059505">
+<problem id="fs-id1166484059507">
+<para id="fs-id1166490921570">Jesse’s car gets <m:math><m:mn>30</m:mn></m:math> miles per gallon of gas. If Las Vegas is <m:math><m:mn>285</m:mn></m:math> miles away, how many gallons of gas are needed to get there and then home? If gas is <m:math><m:mtext>$3.09</m:mtext></m:math> per gallon, what is the total cost of the gas for the trip?</para>
+</problem>
+<solution id="fs-id1166491428019">
+<para id="fs-id1166491428022">19, $58.71</para>
+</solution>
+</exercise>
+<exercise id="fs-id2047861">
+<problem id="fs-id2047863">
+<para id="fs-id1195325">Danny wants to drive to Phoenix to see his grandfather. Phoenix is <m:math><m:mn>370</m:mn></m:math> miles from Danny’s home and his car gets <m:math><m:mn>18.5</m:mn></m:math> miles per gallon. How many gallons of gas will Danny need to get to and from Phoenix? If gas is <m:math><m:mtext>$3.19</m:mtext></m:math> per gallon, what is the total cost for the gas to drive to see his grandfather?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490757603">
+<problem id="fs-id1687801">
+<para id="fs-id1687803">Hugh leaves early one morning to drive from his home in Chicago to go to Mount Rushmore, <m:math><m:mn>812</m:mn></m:math> miles away. After <m:math><m:mn>3</m:mn></m:math> hours, he has gone <m:math><m:mn>190</m:mn></m:math> miles. At that rate, how long will the whole drive take?</para>
+</problem>
+<solution id="fs-id1166498082818">
+<para id="fs-id1166498082820">12.8 hours</para>
+</solution>
+</exercise>
+<exercise id="fs-id1807817">
+<problem id="fs-id1807819">
+<para id="fs-id1166478987563">Kelly leaves her home in Seattle to drive to Spokane, a distance of <m:math><m:mn>280</m:mn></m:math> miles. After <m:math><m:mn>2</m:mn></m:math> hours, she has gone <m:math><m:mn>152</m:mn></m:math> miles. At that rate, how long will the whole drive take?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166488297918">
+<problem id="fs-id1166488297920">
+<para id="fs-id1166488297922">Phil wants to fertilize his lawn. Each bag of fertilizer covers about <m:math><m:mrow><m:mn>4,000</m:mn></m:mrow></m:math> square feet of lawn. Phil’s lawn is approximately <m:math><m:mrow><m:mn>13,500</m:mn></m:mrow></m:math> square feet. How many bags of fertilizer will he have to buy?</para>
+</problem>
+<solution id="fs-id1905400">
+<para id="fs-id1905402">4 bags</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166489098497">
+<problem id="fs-id1807693">
+<para id="fs-id1807695">April wants to paint the exterior of her house. One gallon of paint covers about <m:math><m:mn>350</m:mn></m:math> square feet, and the exterior of the house measures approximately <m:math><m:mn>2000</m:mn></m:math> square feet. How many gallons of paint will she have to buy?</para>
+</problem>
+</exercise>
+</section><section id="fs-id1166490867030" class="everyday">
+<title>Everyday Math</title>
+<exercise id="fs-id1166490867035">
+<problem id="fs-id1166490867037">
+<para id="fs-id1166490867040"><emphasis effect="bold">Mixing a concentrate</emphasis> Sam bought a large bottle of concentrated cleaning solution at the warehouse store. He must mix the concentrate with water to make a solution for washing his windows. The directions tell him to mix <m:math><m:mn>3</m:mn></m:math> ounces of concentrate with <m:math><m:mn>5</m:mn></m:math> ounces of water. If he puts <m:math><m:mn>12</m:mn></m:math> ounces of concentrate in a bucket, how many ounces of water should he add? How many ounces of the solution will he have altogether?</para></problem>
+<solution id="fs-id1834022">
+<para id="fs-id1834024">20, 32</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497191694">
+<problem id="fs-id1166497191696">
+<para id="fs-id1166497191698"><emphasis effect="bold">Mixing a concentrate</emphasis> Travis is going to wash his car. The directions on the bottle of car wash concentrate say to mix <m:math><m:mn>2</m:mn></m:math> ounces of concentrate with <m:math><m:mn>15</m:mn></m:math> ounces of water. If Travis puts <m:math><m:mn>6</m:mn></m:math> ounces of concentrate in a bucket, how much water must he mix with the concentrate?</para>
+</problem>
+</exercise>
+</section>
+<section id="eip-514"><title>Self Check</title><para id="eip-id1168466338377"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.
+</para>
+
+
+<para id="eip-851"><figure id="eip-id1164270743853" class="unnumbered"><label/><media id="eip-id1164270743856" alt="."><image mime-type="image/jpg" src="../../media/CNX_BMath_Figure_AppB_039.jpg"/></media></figure>
+</para><para id="eip-id1168466075811"><span class="token">ⓑ</span> Overall, after looking at the checklist, do you think you are well-prepared for the next Chapter? Why or why not?
+</para></section>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1166490867506">
+<term>proportion</term>
+<meaning id="fs-id1166490867511">A proportion is an equation of the form     <m:math><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac></m:math>, where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, <m:math><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>.The proportion states two ratios or rates are equal. The proportion is read “<m:math><m:mi>a</m:mi></m:math> is to <m:math><m:mi>b</m:mi></m:math>, as <m:math><m:mi>c</m:mi></m:math> is to  <m:math><m:mi>d</m:mi></m:math>”.
+</meaning>
+</definition>
+</glossary>
+</document>
