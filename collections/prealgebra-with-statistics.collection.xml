@@ -1,0 +1,100 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11999</md:content-id>
+    <md:title>Prealgebra with Statistics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ff8bb96b-1d08-4c9c-8111-f3a426fe57fe</md:uuid>
+<md:slug>prealgebra-with-statistics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Statistics and Probability</md:title>
+      <col:content>
+        <col:module document="m46909"/>
+        <col:module document="m46882"/>
+        <col:module document="m46934"/>
+        <col:module document="m46924"/>
+        <col:module document="m46930"/>
+        <col:module document="m46920"/>
+        <col:module document="m46928"/>
+        <col:module document="m46948"/>
+        <col:module document="m46947"/>
+        <col:module document="m46885"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Math Models and Geometry</md:title>
+      <col:content>
+        <col:module document="m57800"/>
+        <col:module document="m53148"/>
+        <col:module document="m53065"/>
+        <col:module document="m53137"/>
+        <col:module document="m53141"/>
+        <col:module document="m53144"/>
+        <col:module document="m53151"/>
+        <col:module document="m53150"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Language of Algebra</md:title>
+      <col:content>
+        <col:module document="m57793"/>
+        <col:module document="m53002"/>
+        <col:module document="m53005"/>
+        <col:module document="m53006"/>
+        <col:module document="m53009"/>
+        <col:module document="m53011"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Integers</md:title>
+      <col:content>
+        <col:module document="m57794"/>
+        <col:module document="m53018"/>
+        <col:module document="m53013"/>
+        <col:module document="m53027"/>
+        <col:module document="m53022"/>
+        <col:module document="m53025"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Properties of Real Numbers</md:title>
+      <col:content>
+        <col:module document="m57798"/>
+        <col:module document="m53093"/>
+        <col:module document="m53090"/>
+        <col:module document="m53099"/>
+        <col:module document="m53106"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Solving Linear Equations</md:title>
+      <col:content>
+        <col:module document="m57799"/>
+        <col:module document="m53111"/>
+        <col:module document="m53116"/>
+        <col:module document="m53044"/>
+        <col:module document="m53055"/>
+        <col:module document="m53082"/>
+        <col:module document="m53124"/>
+        <col:module document="m53130"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Graphs</md:title>
+      <col:content>
+        <col:module document="m57803"/>
+        <col:module document="m53173"/>
+        <col:module document="m53180"/>
+        <col:module document="m53183"/>
+        <col:module document="m53185"/>
+        <col:module document="m60151"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m56252"/>
+    <col:module document="m56269"/>
+    <col:module document="m56244"/>
+    <col:module document="m56248"/>
+  </col:content>
+</col:collection>
