@@ -1,0 +1,1151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Multiply and Divide Fractions Beginning Level</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m73381</md:content-id>
+  <md:title>Multiply and Divide Fractions Beginning Level</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Multiply fractions</item>
+<item>Find reciprocals</item>
+<item>Divide fractions</item>
+</list></md:abstract>
+  <md:uuid>9ed6dfa8-a2cc-45a1-ac18-076988ecc833</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id1362037" class="be-prepared">
+<para id="fs-id2994162">Before you get started, take this readiness quiz.</para>
+<list id="fs-id1381027" mark-suffix=")" list-type="enumerated" number-style="arabic"><item>Draw a model of the fraction <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id2436750" document="m73380"/>.</item>
+<item>Find two fractions equivalent to <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+Answers may vary. Acceptable answers include <m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mrow><m:mn>50</m:mn></m:mrow><m:mrow><m:mn>60</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> etc.<newline/>
+If you missed this problem, review <link target-id="fs-id1816266" document="m73380"/>.</item>
+</list><para id="eip-481"><newline/>
+<newline/></para></note>
+<section id="fs-id2081411"><title>Multiply fractions</title><para id="fs-id2904577">A model may help you understand multiplication of fractions. We will use fraction tiles to model <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> To multiply <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> think <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> of <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id2140323">Start with fraction tiles for three-fourths. To find one-half of three-fourths, we need to divide them into two equal groups. Since we cannot divide the three <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> tiles evenly into two parts, we exchange them for smaller tiles.</para>
+<media id="fs-id2173839" alt="A rectangle is divided vertically into three equal pieces. Each piece is labeled as one fourth. There is a an arrow pointing to an identical rectangle divided vertically into six equal pieces. Each piece is labeled as one eighth. There are braces showing that three of these rectangles represent three eighths.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_010_img.jpg"/>
+</media>
+<para id="fs-id1858740">We see <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> is equivalent to <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Taking half of the six <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> tiles gives us three <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> tiles, which is <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1968554">Therefore,</para>
+<equation id="fs-id1759411" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="eip-197">The area model of multiplication can also be used to model this problem.<newline/>
+We need a rectangle with one side <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> of a unit long and the other side <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> of a unit long.<newline/>
+<newline/>
+<media id="fs-id3192411" alt="A rectangle is shown. The width is labeled as 3/4 unit, and the height is labeled as 1/2 unit.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X1.jpg"/>
+</media><newline/>
+The area is the product of the sides.<newline/>
+<newline/>
+We can find the area by extending the sides of this rectangle to make a unit square.<newline/>
+<newline/>
+<media id="fs-id3192412" alt="A rectangle is shown. The width is labeled as 3/4 unit, and the height is labeled as 1/2 unit. A unit square is drawn around it, where the width is 1 unit and the height is 1 unit.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X2.jpg"/>
+</media>
+<newline/>
+<newline/>
+Draw in the lines that show the unit rectangle divided horizontally into half (<m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>) and vertically into fourths (<m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math>).<newline/>
+<newline/>
+<media id="fs-id3192413" alt="A rectangle is shown. The width is labeled as 3/4 unit, and the height is labeled as 1/2 unit. A unit square is drawn around it, where the width is 1 unit and the height is 1 unit. Dividing lines drawn through the image show the rectangle as shaded parts of the unit square.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X3.jpg"/>
+</media>
+<newline/><newline/>
+All of the small rectangles are the same size. How many of them make up the unit square?<newline/>
+There are <m:math><m:mrow><m:mn>2</m:mn> <m:mo>·</m:mo> <m:mn>4</m:mn> <m:mo>=</m:mo> <m:mn>8</m:mn></m:mrow></m:math> of them; each one is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> of the unit square.<newline/><newline/>
+How many are shaded?<newline/>
+<m:math><m:mrow><m:mn>1</m:mn> <m:mo>·</m:mo> <m:mn>3</m:mn> <m:mo>=</m:mo> <m:mn>3</m:mn></m:mrow></m:math> of them. Therefore the area is <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> of the square unit.</para><note id="fs-id1358945" class="try">
+<para id="eip-104">The area model of multiplication can also be used to model this problem.<newline/>
+We need a rectangle with one side <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> units long and the other side <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math> of a unit long.<newline/>
+<newline/>
+<media id="fs-id3192414" alt="A rectangle is shown. The width is labeled as 5/7 unit, and the height is labeled as 3/2 unit.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X4.jpg"/>
+</media><newline/>
+The area is the product of the sides.<newline/>
+<newline/>
+We can find the area by extending the sides of this rectangle to make a unit square. The height is more than <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> unit long, so it is not fully included in the unit square.<newline/>
+<newline/>
+<media id="fs-id3192415" alt="A rectangle is shown. The width is labeled as 5/7 unit, and the height is labeled as 3/2 unit. A unit square is drawn around it, where the width is 1 unit and the height is 1 unit.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X5.jpg"/>
+</media>
+<newline/>
+<newline/>
+Draw in the lines that show the unit rectangle divided horizontally into halves (<m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>) and vertically into sevenths (<m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math>).<newline/>
+<newline/>
+<media id="fs-id3192416" alt="A rectangle is shown. The width is labeled as 5/7 unit, and the height is labeled as 3/2 unit. A unit square is drawn around it, where the width is 1 unit and the height is 1 unit. Dividing lines drawn through the image show the rectangle as shaded parts of the unit square.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02X6.jpg"/>
+</media>
+<newline/><newline/>
+All of the small rectangles are the same size. How many of them make up the unit square?<newline/>
+There are <m:math><m:mrow><m:mn>2</m:mn> <m:mo>·</m:mo> <m:mn>7</m:mn> <m:mo>=</m:mo> <m:mn>14</m:mn></m:mrow></m:math> of them; each one is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>14</m:mn></m:mfrac></m:mrow></m:math> of the unit square.<newline/><newline/>
+How many are shaded?<newline/>
+<m:math><m:mrow><m:mn>3</m:mn> <m:mo>·</m:mo> <m:mn>5</m:mn> <m:mo>=</m:mo> <m:mn>15</m:mn></m:mrow></m:math> of them. Therefore the area is <m:math><m:mrow><m:mfrac><m:mn>15</m:mn><m:mn>14</m:mn></m:mfrac></m:mrow></m:math> of the square unit. It's OK that some of these rectangles are outside of the unit square.</para><exercise id="fs-id1548744">
+<problem id="fs-id2084744">
+<para id="fs-id2954309">Use a diagram to model: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id1360285">
+<para id="fs-id1974089"><m:math><m:mrow><m:mfrac><m:mn>15</m:mn><m:mrow><m:mn>28</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<para id="fs-id3293033">In the examples and exercises you may have noticed that we multiply the numerators of the factors to get the numerator of the product and multiply the denominators of the factors to get the denominator of the product. Normally, we then write the fraction in simplified form.</para><note id="fs-id2908633">
+<title>Fraction Multiplication</title>
+<para id="fs-id2707863">If <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>,</m:mo><m:mi>c</m:mi><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>d</m:mi></m:mrow></m:math> are numbers where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> then</para>
+<equation id="fs-id1171100782926" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mi>d</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+</note>
+<example id="fs-id1863495"><exercise id="fs-id2436292">
+<problem id="fs-id1370912">
+<para id="fs-id1632996">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1988962">
+<title>Solution</title>
+<table id="eip-id1168468398776" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+  <entry/>
+  <entry><m:math><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Multiply the numerators; multiply the denominators.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mfrac><m:mn>3</m:mn><m:mn>20</m:mn></m:mfrac></m:math></entry></row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-id3400279">There are no common factors, so the fraction is simplified.</para>
+</solution>
+</exercise>
+</example><note id="fs-id2951424" class="try">
+<exercise id="fs-id2751102">
+<problem id="fs-id2365113">
+<para id="fs-id1379855">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1160264">
+<para id="fs-id1931320"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1951437" class="try">
+<exercise id="fs-id1920848">
+<problem id="fs-id2138940">
+<para id="fs-id2142823">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1381742">
+<para id="fs-id4163293"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>21</m:mn></m:mrow><m:mrow><m:mn>40</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="eip-533">When multiplying fractions, the properties of positive and negative numbers still apply. It is a good idea to determine the sign of the product as the first step. In <link target-id="fs-id2590618">Example 4.26</link> we will multiply two negatives, so the product will be positive.</para><example id="fs-id2590618"><exercise id="fs-id4876976">
+<problem id="fs-id1933193">
+<para id="fs-id3323807">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2784352">
+<title>Solution</title>
+<table id="eip-id1168466273465" class="unnumbered unstyled" summary="The problem is 5 eighths times 2 thirds. Multiply the numerators, multiply the denominators,” and next to this is 5 times 2 over 8 times 3. The next line says, “Simplify,” and has 10 over 24. The next step says to “Look for common factors in the numerator and denominator. Rewrite showing common factors,” and shows 5 times 2 over 12 times 2. The last step says to “Remove common factors,” and shows 10 over 24 equal to 5 times 2 over 12 times 2 with the 2s crossed out equal to 5 over 12."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+  <entry/>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply the numerators, multiply the denominators.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mfrac><m:mn>10</m:mn><m:mn>24</m:mn></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Look for common factors in the numerator and denominator. Rewrite showing common factors.</entry>
+  <entry><media id="eip-id6805038" alt=""><image src="../../media/CNX_BMath_Figure_04_02_038_img-01.png" mime-type="image/png"/></media></entry></row> 
+<row>
+  <entry>Remove common factors.</entry>
+  <entry><m:math><m:mfrac><m:mn>5</m:mn><m:mn>12</m:mn></m:mfrac></m:math></entry></row>     
+</tbody>
+
+
+
+
+
+
+
+
+</tgroup>
+</table><para id="fs-id2358857">Another way to find this product involves removing common factors earlier.</para>
+<table id="eip-id1168466166066" class="unnumbered unstyled" summary="The problem is 5 eighths times 2 thirds. Multiply,” and next to this is 5 times 2 over 8 times 3. The next line says, “Show common factors and remove them,” and shows 5 times 2 over 4 times 2 times 3. The 2s are written in red and crossed out. The last step says to “Multiply remaining factors,” and shows 5 over 12."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+  <entry/>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:mo>⋅</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Show common factors and then remove them.</entry>
+  <entry><media id="eip-id1168469466410" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_032_img-01.png"/></media></entry>
+</row>
+<row>
+  <entry>Multiply remaining factors.</entry>
+  <entry><m:math><m:mfrac><m:mn>5</m:mn><m:mn>12</m:mn></m:mfrac></m:math></entry></row>
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1891341">We get the same result.</para>
+</solution>
+</exercise>
+</example><note id="fs-id1239322" class="try">
+<exercise id="fs-id2629556">
+<problem id="fs-id1298655">
+<para id="fs-id1259033">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2620115">
+<para id="fs-id1169860"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2385558" class="try">
+<exercise id="fs-id1826031">
+<problem id="fs-id2248724">
+<para id="fs-id1266084">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id1842592">
+<para id="fs-id1614509"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>27</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id2261289" class="try">
+<exercise id="fs-id1822971">
+<problem id="fs-id1601932">
+<para id="fs-id1961355">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>28</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2495710">
+<para id="fs-id2903726"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>21</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id1987890" class="try">
+<exercise id="fs-id2280190">
+<problem id="fs-id2352778">
+<para id="fs-id2246436">Multiply, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>20</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id1581515">
+<para id="fs-id1517522"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<para id="fs-id2778365">When multiplying a fraction by an integer, it may be helpful to write the integer as a fraction. Any integer, <m:math><m:mi>a</m:mi><m:mo>,</m:mo></m:math> can be written as <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>1</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> So, <m:math><m:mrow><m:mn>3</m:mn><m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>1</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> for example.</para>
+<example id="fs-id1257967"><exercise id="fs-id2323137">
+<problem id="fs-id2561418">
+<para id="fs-id1859590">Multiply, and write the answer in simplified form:</para>
+<para id="fs-id2129913"><m:math><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>56</m:mn></m:math></para></problem>
+<solution id="fs-id1724732">
+<title>Solution</title>
+
+
+<table id="eip-id1168466216346" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>56</m:mn></m:math></entry></row> 
+<row>
+  <entry>Write 56 as a fraction.</entry>
+  <entry><m:math><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>56</m:mn><m:mn>1</m:mn></m:mfrac></m:math></entry></row>   
+<row>
+  <entry>Determine the sign of the product; multiply.</entry>
+  <entry><m:math><m:mfrac><m:mn>56</m:mn><m:mn>7</m:mn></m:mfrac></m:math></entry></row>  
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mn>8</m:mn></m:math></entry></row>
+</tbody>
+
+
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example><note id="fs-id1467322" class="try">
+<exercise id="fs-id1835798">
+<problem id="fs-id764673">
+<para id="fs-id2862189">Multiply, and write the answer in simplified form:</para>
+<para id="fs-id1966816"><list id="eip-id1169412621214" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>72</m:mn><m:mspace width="1.0em"/></m:math></item><item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:math> </item></list></para></problem>
+<solution id="fs-id2155634">
+<para id="fs-id1406586"><list id="eip-id1168468331926" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> 9</item><item><span class="token">ⓑ</span> 33</item></list></para></solution>
+</exercise>
+</note>
+<note id="fs-id2784746" class="try">
+<exercise id="fs-id1511894">
+<problem id="fs-id2707936">
+<para id="fs-id1881389">Multiply, and write the answer in simplified form:</para>
+<para id="fs-id1373389"><list id="eip-id1168469430618" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>64</m:mn></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mn>16</m:mn><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:math></item></list></para></problem>
+<solution id="fs-id1508469">
+<para id="fs-id1372010"><list id="eip-id1168467345915" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mn>24</m:mn></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mrow><m:mn>44</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac></m:math></item></list></para></solution>
+</exercise>
+</note>
+</section><section id="fs-id1390478"><title>Find Reciprocals</title><para id="fs-id1166761301297">The fractions <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> are related to each other in a special way. So are <m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Do you see how? Besides looking like upside-down versions of one another, if we were to multiply these pairs of fractions, the product would be <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math></para><equation id="fs-id1834573" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="1.0em"/><m:mtext>and</m:mtext><m:mspace width="1.0em"/><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></equation><para id="fs-id1597613">Such pairs of numbers are called reciprocals.</para><note id="fs-id1361007">
+<title>Reciprocal</title>
+<para id="fs-id1804020">The <term>reciprocal</term> of the fraction <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:math> is <m:math><m:mrow><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> where <m:math><m:mrow><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math></para><para id="fs-id1183695">A number and its reciprocal have a product of <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math> Notice that if X is the reciprocal of Y then Y is the reciprocal of X.</para><equation id="fs-id1340660" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></equation>
+</note>
+<para id="fs-id2299691">To find the reciprocal of a fraction, we invert the fraction. This means that we place the numerator in the denominator and the denominator in the numerator.</para>
+<para id="fs-id2224098">The number zero does not have a reciprocal. Why? A number and its reciprocal multiply to <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math> Is there any number <m:math><m:mi>r</m:mi></m:math> so that <m:math><m:mrow><m:mn>0</m:mn><m:mo>·</m:mo><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow><m:mo>?</m:mo></m:math> No. So, the number <m:math><m:mn>0</m:mn></m:math> does not have a reciprocal.<newline/>
+If we were to invert a fraction with zero in the numerator then new fraction would have zero in the denominator. But division by zero is undefined.</para><example id="fs-id1242988">
+<exercise id="fs-id1841849"><problem id="fs-id2691525">
+<para id="fs-id1714600">Find the reciprocal of each number. Then check that the product of each number and its reciprocal is <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math></para>
+
+<list id="eip-id1168469776775" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓓ</span><m:math><m:mn>7</m:mn></m:math></item></list></problem>
+<solution id="fs-id2150565">
+<title>Solution</title>
+<para id="fs-id2270162">To find the reciprocals, we keep the sign and invert the fractions.</para>
+<table id="eip-374" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+  <row><entry><span class="token">ⓐ</span></entry> 
+  <entry/>
+  </row>
+  <row>
+    <entry>Find the reciprocal of <m:math><m:mfrac><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>9</m:mn></m:mrow></m:mfrac></m:math>.</entry>
+    <entry>The reciprocal of <m:math><m:mfrac><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>9</m:mn></m:mrow></m:mfrac></m:math> is <m:math><m:mfrac><m:mrow><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:mfrac></m:math>.</entry>
+  </row>
+  <row>
+    <entry>Check:</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Multiply the number and its reciprocal.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>9</m:mn></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:mfrac></m:math></entry>
+  </row>
+  <row>
+    <entry>Multiply numerators and denominators.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>36</m:mn></m:mrow></m:mfrac></m:math></entry>
+  </row>
+  <row>
+    <entry>Simplify.</entry>
+    <entry><m:math><m:mn>1</m:mn><m:mo>✓</m:mo></m:math></entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table><table id="eip-37774" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><span class="token">ⓑ</span></entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Find the reciprocal of <m:math><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow></m:mfrac></m:math>.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac></m:math> </entry>
+  </row>
+  <row>
+    <entry>Simplify.</entry>
+    <entry><m:math><m:mn>6</m:mn></m:math></entry>
+  </row>
+  <row>
+    <entry>Check:</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mo>(</m:mo><m:mn>6</m:mn><m:mo>)</m:mo></m:math></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry><m:math><m:mn>1</m:mn><m:mo>✓</m:mo></m:math></entry>
+  </row>
+  
+</tbody>
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table><table id="eip-id1170196522976" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><span class="token">ⓒ</span></entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Find the reciprocal of <m:math><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>5</m:mn></m:mrow></m:mfrac></m:math>.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac></m:math> </entry>
+  </row>
+  <row>
+    <entry>Check:</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo>(</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac><m:mo>)</m:mo></m:math></entry>
+  </row>
+<row>
+<entry/><entry><m:math><m:mfrac><m:mrow><m:mn>70</m:mn></m:mrow><m:mrow><m:mn>70</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+  <row>
+    <entry/>
+    <entry><m:math><m:mn>1</m:mn><m:mo>✓</m:mo></m:math></entry>
+  </row>
+  
+</tbody>
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table><table id="eip-id1170195508737" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><span class="token">ⓓ</span></entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>Find the reciprocal of <m:math><m:mn>7</m:mn></m:math>.</entry>
+    <entry/>
+  </row>
+  
+<row>
+    <entry>Write <m:math><m:mn>7</m:mn></m:math> as a fraction.</entry>
+    <entry><m:math><m:mfrac><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac></m:math></entry>
+  </row>
+
+<row>
+<entry>Write the reciprocal of <m:math><m:mfrac><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac></m:math>.</entry>
+<entry><m:math><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:mfrac></m:math></entry>
+</row>
+  
+
+<row>
+    <entry>Check:</entry>
+    <entry><m:math><m:mn>7</m:mn><m:mo>⋅</m:mo><m:mo>(</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:mfrac><m:mo>)</m:mo></m:math></entry>
+  </row>
+
+
+<row>
+<entry/>
+<entry><m:math><m:mn>1</m:mn><m:mo>✓</m:mo></m:math></entry></row>
+  
+</tbody>
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1602123" class="try">
+<exercise id="fs-id2906598">
+<problem id="fs-id2171218">
+<para id="fs-id2175650">Find the reciprocal:</para>
+<para id="fs-id2676883"><list id="eip-id1168469888111" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓓ</span><m:math><m:mn>14</m:mn></m:math></item></list></para></problem>
+<solution id="fs-id2223955">
+<para id="fs-id2330674"><list id="eip-id1168468629212" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mn>8</m:mn></m:math></item>
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:math></item>
+<item><span class="token">ⓓ</span><m:math><m:mfrac><m:mn>1</m:mn><m:mn>14</m:mn></m:mfrac></m:math></item></list></para></solution>
+</exercise>
+</note>
+<note id="fs-id1160285" class="try">
+<exercise id="fs-id1918491">
+<problem id="fs-id3159114">
+<para id="fs-id1512222">Find the reciprocal:</para>
+<para id="fs-id1355541"><list id="eip-id1168468483976" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:math></item>
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓓ</span><m:math><m:mn>21</m:mn></m:math></item></list></para></problem>
+<solution id="fs-id2900649">
+<para id="fs-id2262256"><list id="eip-id1168469835155" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span><m:math><m:mn>12</m:mn></m:math></item>
+<item><span class="token">ⓒ</span><m:math><m:mfrac><m:mrow><m:mn>9</m:mn></m:mrow><m:mn>14</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓓ</span><m:math><m:mfrac><m:mrow><m:mn>1</m:mn></m:mrow><m:mn>21</m:mn></m:mfrac></m:math></item></list></para></solution>
+</exercise>
+</note>
+</section><section id="eip-812"><title>Divide Fractions</title><para id="fs-id1574742">Why is <m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow><m:mo>?</m:mo></m:math> We previously modeled this with counters. How many groups of <m:math><m:mn>3</m:mn></m:math> counters can be made from a group of <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> counters?</para>
+<media id="fs-id1621685" alt="Four red ovals are shown. Inside each oval are three grey circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_015_img.jpg"/>
+</media>
+<para id="fs-id1828558">There are <m:math><m:mn>4</m:mn></m:math> groups of <m:math><m:mn>3</m:mn></m:math> counters. In other words, there are four <m:math><m:mrow><m:mn>3</m:mn><m:mtext>s</m:mtext></m:mrow></m:math> in <m:math><m:mrow><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math> So, <m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+For every division there is a related multiplication. In this case, <m:math><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+<newline/>
+Division can be thought of as subtraction where the same number is subtracted over and over again. How many times can <m:math><m:mn>3</m:mn></m:math> be subtracted from <m:math><m:mn>12</m:mn></m:math>?
+<newline/><m:math><m:mrow><m:mn>12</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>.</m:mo></m:mrow><m:mo>   </m:mo>
+<m:mrow><m:mn>9</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>.</m:mo></m:mrow><m:mo>   </m:mo>
+<m:mrow><m:mn>6</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow><m:mo>   </m:mo>
+<m:mrow><m:mn>3</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+This also gives the answer <m:math><m:mn>4</m:mn></m:math>.</para><para id="fs-id2340005">Dividing fractions is similar. Suppose we want to find the quotient: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> We need to figure out how many <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math> there are in <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> We can use fraction tiles to model this division. We start by lining up the half and sixth fraction tiles as shown in the next figure. Notice, there are three <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math> tiles in <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> so <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>. </m:mo></m:mrow></m:math>The related multiplication problem is <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+<newline/>Thought of as repeated subtraction, the first step is: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+This requires a common denominator which is <m:math><m:mn>6</m:mn></m:math>. The problem now becomes:<newline/> 
+<m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>. </m:mo></m:mrow></m:math>
+<newline/><newline/> <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>. </m:mo></m:mrow></m:math>
+<newline/><newline/> <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>. </m:mo></m:mrow></m:math><newline/>
+ This also gives the answer <m:math><m:mn>3</m:mn></m:math>.</para><figure id="CNX_BMath_Figure_04_02_016">
+<media id="fs-id1458356" alt="A rectangle is shown, labeled as one half. Below it is an identical rectangle split into three equal pieces, each labeled as one sixth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_016-179c.jpg"/>
+</media>
+</figure>
+<example id="fs-id1340751">
+<exercise id="fs-id1508964">
+<problem id="fs-id1899946">
+<para id="fs-id1969048">Model: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id2908766">
+<title>Solution</title>
+<para id="fs-id1885595">We want to determine how many <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> are in <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Start with one <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> tile. Line up <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> tiles underneath the <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> tile.</para><media id="fs-id1362946" alt="A rectangle is shown, labeled one fourth. Below it is an identical rectangle split into two equal pieces, each labeled as one eighth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_017_img.jpg"/>
+</media>
+<para id="fs-id3017276">There are two <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math> in <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para><para id="fs-id4163583">So, <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>.</m:mo></m:mrow></m:math> The corresponding multiplication is <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</example>
+<note id="fs-id1730116" class="try">
+<exercise id="fs-id4315988">
+<problem id="fs-id4219967">
+<para id="fs-id1567253">Model: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id2138110">
+<para id="fs-id1171103030165"><newline/>
+<media id="fs-id1325545" alt="A rectangle is shown, labeled as one third. Below it is an identical rectangle split into two equal pieces, each labeled as one sixth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_018_img.jpg"/>
+</media><newline/>
+<newline/>The corresponding multiplication is <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id1919209" class="try">
+<exercise id="fs-id1208820">
+<problem id="fs-id2325427">
+<para id="fs-id2298816">Model: <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id2220935">
+<para id="fs-id1171103110560"><newline/>
+<media id="fs-id2387806" alt="A rectangle is shown, labeled as one half. Below it is an identical rectangle split into two equal pieces, each labeled as one fourth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_019_img.jpg"/>
+</media><newline/>
+<newline/>The corresponding multiplication is <m:math><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<example id="fs-id2269244">
+<exercise id="fs-id2908464">
+<problem id="fs-id1282534">
+<para id="fs-id2262665">Model: <m:math><m:mrow><m:mn>2</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id3340394">
+<title>Solution</title>
+<para id="fs-id1398050">We are trying to determine how many <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> there are in <m:math><m:mn>2</m:mn><m:mo>.</m:mo></m:math> We can model this as shown.</para><media id="fs-id1398224" alt="Two rectangles are shown, each labeled as 1. Below it are two identical rectangle, each split into four pieces. Each of the eight pieces is labeled as one fourth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_020_img.jpg"/>
+</media>
+<para id="fs-id1738644">There are eight <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> in <m:math><m:mn>2</m:mn><m:mo>.</m:mo></m:math><newline/><m:math><m:mrow><m:mn> 2</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>8</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+The corresponding multiplication is <m:math><m:mrow><m:mn>8</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mo> 2.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</example>
+<note id="fs-id3274121" class="try">
+<exercise id="fs-id1370723">
+<problem id="fs-id1714263">
+<para id="fs-id1721210">Model: <m:math><m:mrow><m:mn>2</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id1168874">
+<para id="fs-id1171103265357"><newline/>
+<media id="fs-id1608240" alt="Two rectangles are shown, each labeled as 1. Below it are two identical rectangle, each split into three pieces. Each of the six pieces is labeled as one third.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_021_img.jpg"/>
+</media><newline/><newline/>
+The corresponding multiplication is <m:math><m:mrow><m:mn>6</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mo> 2.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id2241393" class="try">
+<exercise id="fs-id1393940">
+<problem id="fs-id2212061">
+<para id="fs-id1389506">Model: <m:math><m:mrow><m:mn>3</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> Show the corresponding multiplication.</para></problem>
+<solution id="fs-id1609314">
+<para id="fs-id1171102819720"><newline/>
+<media id="fs-id3202520" alt="Three rectangles are shown, each labeled as 1. Below are three identical rectangles, each split into 2 equal pieces. Each of these six pieces is labeled as one half.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_022_img.jpg"/>
+</media><newline/><newline/>
+The corresponding multiplication is <m:math><m:mrow><m:mn>6</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>=</m:mo><m:mo> 3.</m:mo></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<para id="eip-373"><media id="eip-idm1187060592" alt="A rectangle is shown, labeled as one half. Below it is an identical rectangle split into three equal pieces, each labeled as one sixth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_02_016-179c.jpg"/>
+</media>
+</para><para id="eip-222">Recall  <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+Assume that we divided <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> a foot by <m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math> of a foot. The answer is still <m:math><m:mn>3</m:mn></m:math>, not 3 feet but just the number <m:math><m:mn>3</m:mn></m:math>. We can divide a <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> foot long strip into 3 <m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math> of a  foot long strips. This is true of any other unit such as miles, pounds, or gallons. For example, if I have <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> a pound of candy then I can divide it into 3 <m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math> pound portions. The unit we use to measure doesn't matter as long as both parts are measured using the same unit.<newline/>
+
+<newline/>Imagine if we measured in inches rather than in feet. 12 inches = 1 foot so <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> foot = 6 inches and <m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math>  foot = 2 inches.<newline/>
+What is 6 inches divided by 2 inches? <m:math><m:mn>6</m:mn><m:mo>÷</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>3</m:mn></m:math>. This shows we can easily divide fractions if we can change the unit to get rid of the fractions. We are then left with a problem that just divides whole numbers.</para><para id="eip-392">The close relationship between division and subtraction means that we can use our knowledge of subtraction to help us with more difficult divisions. So far, our division of fraction problems have been easy. We've been able to illustrate them with tiles and they have worked out evenly. Let's try a harder problem: <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac> <m:mo>÷</m:mo> <m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math>.</para><para id="eip-385">How much is left after we subtract: <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math>? 
+<newline/><newline/>
+<media id="eip-idm498808208" alt="A rectangle is shown of size five halves split into five equal pieces, each labeled one half. Below it is a rectangle of size three fifths, split into three equal pieces, each labeled as one fifth.">
+<image mime-type="image/jpng" src="../../media/5halfsOver3fifths.png"/>
+</media></para><para id="eip-154">In order to do the subtraction we need to find a common denominator. In this case, <m:math><m:mrow><m:mn>2</m:mn> <m:mo>·</m:mo> <m:mn>5</m:mn> <m:mo>=</m:mo> <m:mn>10</m:mn></m:mrow></m:math>.<newline/>
+<newline/>The next step is to change each fraction to an equivalent fraction with a denominator of <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math>.<newline/><newline/>
+<m:math><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn> <m:mo>·</m:mo> <m:mn>5</m:mn></m:mrow><m:mrow><m:mn>2</m:mn> <m:mo>·</m:mo> <m:mn>5</m:mn></m:mrow></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mn>25</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn> <m:mo>·</m:mo> <m:mn>2</m:mn></m:mrow><m:mrow><m:mn>5</m:mn> <m:mo>·</m:mo> <m:mn>2</m:mn></m:mrow></m:mfrac> <m:mo>=</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Subtracting <m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>-</m:mo> <m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mn>19</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Again <m:math><m:mrow><m:mfrac><m:mn>19</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>-</m:mo> <m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mn>13</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Again <m:math><m:mrow><m:mfrac><m:mn>13</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>-</m:mo> <m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mn>7</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Again<m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>-</m:mo> <m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> until we can no longer take away <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.</para><para id="eip-269"><media id="eip-idm1328029184" alt="A rectangle is shown of size five halves split into five equal pieces, each labeled one half. Below it are four rectangles of size three fifths, split into three equal pieces, each labeled as one fifth, fololwed by one rectangle labeled one tenth.">
+<image mime-type="image/png" src="../../media/5halfsOver4_3fifthsand1tenth.png"/>
+</media></para><para id="eip-741">We were able to subtract <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math> from <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> times and <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> was left over. The <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> is easy to understand, but what about the part that remains? It is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> of a unit, but what we want to know is what part of <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math> it is.</para><para id="eip-227">Recall that <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math> is equivalent to <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Thought of that way, the individual pieces are the same size, they are both <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>. We can easily tell that it takes <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math> <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> pieces to make <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> so <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math> of <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>. Therefore the final answer is <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/>
+Caution: <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> is not the answer. The <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> is the size of the piece remaining, but not what part of <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math> that piece is.</para><para id="eip-828">If you are thinking that there must be an easier way, don't worry there is. Just like you wouldn't normally want to multiply fractions by repeated addition, you don't normally want to divide fractions by repeated subtraction. The important part is to notice that changing to a common denominator was an essential part of the solution.</para><para id="eip-456">Once we had changed to <m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> divided by <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> we were almost done. Imagine that we had measured <m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> in units that were <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> the size. Then the amounts would have been <m:math><m:mrow><m:mn>25</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>6</m:mn></m:mrow></m:math> and we'd be dividing with whole numbers. Since the unit of measurement does not matter as long as it is the same for both parts, our answer would be <m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>6</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math>.</para><para id="eip-140">This agrees with the Equivalent Fraction Property.<newline/><newline/>
+If <m:math><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>,</m:mo></m:math> and <m:math><m:mi>c</m:mi></m:math> are numbers where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> then
+
+<equation id="fs-id1171103834385" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>·</m:mo><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mo>·</m:mo><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+
+Previously, we had thought of <m:math><m:mi>c</m:mi></m:math> as an integer, <m:math><m:mrow><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> but it can also be a fraction. Also remember that an equation can be used in either direction.</para><equation id="eip-809"><title>Division of Fractions with a Common Denominator</title><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>c</m:mi></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>c</m:mi></m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac>
+</m:mrow></m:math></equation><para id="eip-93">From the example above,
+<newline/>
+
+<equation id="eip-idm625572112"><m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>10</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>10</m:mn></m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac><m:mn>25</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></equation>
+
+
+
+
+
+
+
+Dividing by <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> is the same as multiplying by <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math>.
+In doing division of fractions, we are using the Equivalent Fraction Property going from the right side of the property to the left side. Once we have a common denominator, we can immediately write <m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math>.</para><para id="eip-927"><title>An Intuitive Look at the Equivalent Fraction Property</title><newline/>How many <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> pound portions do I get when I divide <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> pounds of food? <m:math><m:mrow><m:mn>12</m:mn> <m:mo>÷</m:mo> <m:mn>3</m:mn> <m:mo>=</m:mo> <m:mn>4</m:mn></m:mrow></m:math>.<newline/>
+<newline/>What if I make both the portion size and total amount of food twice as big?<newline/>
+How many <m:math><m:mrow><m:mn>3</m:mn> <m:mo>·</m:mo> <m:mn>2</m:mn> <m:mo>=</m:mo> <m:mn>6</m:mn></m:mrow></m:math> pound portions do I get when I divide <m:math><m:mrow><m:mn>12</m:mn> <m:mo>·</m:mo> <m:mn>2</m:mn> <m:mo>=</m:mo> <m:mn>24</m:mn></m:mrow></m:math> pounds of food? <m:math><m:mrow><m:mn>24</m:mn> <m:mo>÷</m:mo> <m:mn>6</m:mn> <m:mo>=</m:mo> <m:mn>4</m:mn></m:mrow></m:math>.<newline/>
+<newline/>What if I make both the portion size and total amount of food ten times as big?<newline/>
+How many <m:math><m:mrow><m:mn>3</m:mn> <m:mo>·</m:mo> <m:mn>10</m:mn> <m:mo>=</m:mo> <m:mn>30</m:mn></m:mrow></m:math> pound portions do I get when I divide <m:math><m:mrow><m:mn>12</m:mn> <m:mo>·</m:mo> <m:mn>10</m:mn> <m:mo>=</m:mo> <m:mn>120</m:mn></m:mrow></m:math> pounds of food? <m:math><m:mrow><m:mn>120</m:mn> <m:mo>÷</m:mo> <m:mn>30</m:mn> <m:mo>=</m:mo> <m:mn>4</m:mn></m:mrow></m:math>.<newline/>
+<newline/>In each case the answer is <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> portions. Why? In each case the numerator and denominator were multiplied by the same factor. Therefore the Equivalent Fractions Property applies.<newline/>
+<newline/>
+Make the portion size and the amount of food smaller by the same factor.<newline/>
+<newline/>What if I make both the portion size and total amount of food half as big?<newline/>
+How many <m:math><m:mrow><m:mn>3</m:mn> <m:mo>÷</m:mo> <m:mn>2</m:mn> <m:mo>=</m:mo> <m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> pound portions do I get when I divide <m:math><m:mrow><m:mn>12</m:mn> <m:mo>÷</m:mo> <m:mn>2</m:mn> <m:mo>=</m:mo> <m:mfrac><m:mn>12</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> pounds of food? <m:math><m:mrow><m:mfrac><m:mn>12</m:mn><m:mn>2</m:mn></m:mfrac> <m:mo>÷</m:mo> <m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mn>4</m:mn></m:mrow></m:math>.<newline/>
+<newline/>What if I make both the portion size and total amount of food ten times smaller?<newline/>
+How many <m:math><m:mrow><m:mn>3</m:mn> <m:mo>÷</m:mo> <m:mn>10</m:mn> <m:mo>=</m:mo> <m:mfrac><m:mn>3</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> pound portions do I get when I divide <m:math><m:mrow><m:mn>12</m:mn> <m:mo>÷</m:mo> <m:mn>10</m:mn> <m:mo>=</m:mo> <m:mfrac><m:mn>12</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> pounds of food? <m:math><m:mrow><m:mfrac><m:mn>12</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>÷</m:mo> <m:mfrac><m:mn>3</m:mn><m:mn>10</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mn>4</m:mn></m:mrow></m:math>.<newline/>
+
+<newline/>In each case the answer is <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> portions. Why? In each case, the numerator and denominator were divided by the same factor. Dividing by a factor can be thought of as multiplying by <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> divided by the same factor.</para><para id="eip-360"><newline/>Sometimes it is easier to see the math idea when we think of money.<newline/><newline/>
+How many <m:math><m:mrow><m:mo>$</m:mo><m:mn>3</m:mn></m:mrow></m:math> candies can I buy if I have <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> one dollar bills? <m:math><m:mrow><m:mo>$</m:mo><m:mn>15</m:mn><m:mo>÷</m:mo><m:mo>$</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math>.<newline/>
+How many 75 cents = <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> quarters candies can I buy if I have <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> quarters? <m:math><m:mrow><m:mfrac><m:mn>15</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> of a dollar <m:math><m:mrow><m:mo>÷</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> of a dollar <m:math><m:mrow><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math>.<newline/>
+How many 30 cents = <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> dime candies can I buy if I have <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> dimes? <m:math><m:mrow><m:mfrac><m:mn>15</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> of a dollar <m:math><m:mrow><m:mo>÷</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> of a dollar <m:math><m:mrow><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math>.<newline/><newline/>
+Since the denominators are the same, the division of fractions was easy. We just divided the numerators.
+</para><para id="eip-346"><title>Dividing Fractions with Different Denominators</title>Just as with adding and subtracting fractions with different denominators the first step is to get a common denominator.<newline/>
+It is not important if the denominator is the LCM, just as long as it is a common multiple. The fraction will normally be simplified at the end of the problem.<newline/>
+<newline/>
+Example:<newline/>
+<m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math><newline/><newline/>
+A common denominator for <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> is <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math>. Change each fraction to equivalent fractions with a denominator of <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math>.<newline/><newline/>
+<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/>
+<newline/>By the commutative property <m:math><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>5</m:mn> <m:mo>=</m:mo> <m:mn>5</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow></m:math>. We don't have to do the extra work of seeing that is <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> (although we already did.)<newline/>
+Therefore the fractions have the same denominator and the problem simplifies to <m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math>. This can be simplified to <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math>.</para><note id="fs-id1185222"><title>Dividing Fractions Using the Reciprocal</title><para id="eip-573">If you previously learned how to divide fractions it is probably by multiplying by the reciprocal of the divisor.</para><para id="fs-id1792338">If <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>,</m:mo><m:mi>c</m:mi><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>d</m:mi></m:mrow></m:math> are numbers where <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math> then</para>
+<equation id="fs-id1171100707994" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>d</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>d</m:mi><m:mi>c</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="eip-192">We need to say <m:math><m:mrow><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math> to be sure we don’t divide by zero.</para><para id="fs-id2691204">To divide fractions, multiply the first fraction by the reciprocal of the second.</para><para id="eip-83"><title>Why does this work?</title>Multiplying by the reciprocal is equivalent to finding a common denominator and simplifying.<newline/>
+Doing the multiplication: <m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac> <m:mo>·</m:mo> <m:mfrac><m:mi>d</m:mi><m:mi>c</m:mi></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>·</m:mo><m:mi>d</m:mi></m:mrow><m:mrow><m:mi>c</m:mi><m:mo>·</m:mo><m:mi>b</m:mi></m:mrow></m:mfrac></m:mrow></m:math>, which is exactly the result from the common denominator method.<newline/>
+There is very little difference between the two methods and you can use the one you prefer now that you understand why they work.</para></note><example id="fs-id2352971"><exercise id="fs-id1382195">
+<problem id="fs-id2603246">
+<para id="fs-id2275768">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2263586">
+<title>Solution</title>
+
+<table id="eip-id1168468274991" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply the first fraction by the reciprocal of the second.</entry>
+  <entry><m:math><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac></m:math></entry></row>  
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mfrac><m:mn>14</m:mn><m:mn>15</m:mn></m:mfrac></m:math></entry></row>  
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise>
+</example><example id="eip-283"><exercise id="fs-id1347749">
+<problem id="fs-id1159900">
+<para id="fs-id2629698">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>7</m:mi><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3340612">
+<title>Solution</title>
+
+<table id="eip-id1168466192195" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>7</m:mi><m:mn>5</m:mn></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Multiply the first fraction by the reciprocal of the second.</entry>
+  <entry><m:math><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mi>7</m:mi></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>21</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+</tbody>
+
+
+
+</tgroup>
+</table>
+</solution>
+</exercise></example><note id="fs-id4120559" class="try">
+<exercise id="fs-id2495384">
+<problem id="fs-id2220252">
+<para id="fs-id2961572">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2267354">
+<para id="fs-id1262427"><m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id1160023" class="try">
+<exercise id="fs-id1727728">
+<problem id="fs-id1548119">
+<para id="fs-id1629369">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2204854">
+<para id="fs-id1579752"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id1808732" class="try">
+<exercise id="fs-id752392">
+<problem id="fs-id2662153">
+<para id="fs-id1744840">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>21</m:mi><m:mn>10</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2267236">
+<para id="fs-id1461555"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id2603320" class="try">
+<exercise id="fs-id1607514">
+<problem id="fs-id1395156">
+<para id="fs-id1222060">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>27</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>35</m:mn></m:mrow><m:mrow><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1782725">
+<para id="fs-id2206531"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1824545" class="try">
+<exercise id="fs-id1392635">
+<problem id="fs-id2451798">
+<para id="fs-id2224488">Divide, and write the answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>14</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>28</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1957189">
+<para id="fs-id1547189"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1784433" class="media-2"><title>ACCESS ADDITIONAL ONLINE RESOURCES</title><list id="fs-id2707739" display="block"><item><link url="http://www.openstax.org/l/24MultiplyFrac">Multiplying Fractions </link></item>
+<item><link url="http://www.openstax.org/l/24DivideFrac">Dividing Fractions </link></item>
+</list></note></section><section id="fs-id1790063" class="key-concepts">
+<title>Key Concepts</title>
+<list id="eip-167"><item><emphasis>Equivalent Fractions Property</emphasis><list id="eip-id1170323004261"><item>If <m:math><m:mi>a</m:mi><m:mo>,</m:mo><m:mi> b</m:mi><m:mo>,</m:mo><m:mi> c</m:mi></m:math> are numbers where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, <m:math><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, then <m:math><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>⋅</m:mo><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mo>⋅</m:mo><m:mi>c</m:mi></m:mrow></m:mfrac></m:math> and <m:math><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>⋅</m:mo><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mo>⋅</m:mo><m:mi>c</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac></m:math>.</item></list></item>
+<item><emphasis>Simplify a fraction.</emphasis><list id="eip-id1170323004302" list-type="enumerated" number-style="arabic" class="stepwise"><item>Rewrite the numerator and denominator to show the common factors.</item>
+<item>Simplify, using the equivalent fractions property, by removing common factors.</item>
+<item>Multiply any remaining factors.</item></list></item>
+<item><emphasis>Fraction Multiplication</emphasis><list id="eip-id1170323004360"><item>If <m:math><m:mi>a</m:mi><m:mo>,</m:mo><m:mi> b</m:mi><m:mo>,</m:mo><m:mi> c</m:mi><m:mo>,</m:mo></m:math> and <m:math><m:mi>d</m:mi></m:math> are numbers where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>and <m:math><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, then <m:math><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>d</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>b</m:mi><m:mi>d</m:mi></m:mrow></m:mfrac></m:math>.</item></list></item>
+<item><emphasis>Reciprocal</emphasis><list id="eip-id1170322987712"><item>A number and its reciprocal have a product of <m:math><m:mn>1</m:mn></m:math>.</item></list></item>
+<item><emphasis>Fraction Division</emphasis><list id="eip-id1170323913006"><item>If <m:math><m:mi>a</m:mi><m:mo>, </m:mo><m:mi>b</m:mi><m:mo>, </m:mo><m:mi>c</m:mi><m:mo>,</m:mo></m:math> and <m:math><m:mi>d</m:mi></m:math> are numbers where <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>, <m:math><m:mi>c</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math> and <m:math><m:mi>d</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math> , then
+<newline/><equation id="eip-id1170322979647"><m:math><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mi>c</m:mi></m:mrow><m:mrow><m:mi>d</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow><m:mi>c</m:mi></m:mrow></m:mfrac></m:math></equation></item>
+<item>To divide fractions, multiply the first fraction by the reciprocal of the second.</item></list></item></list></section>
+<section id="fs-id3215450" class="section-exercises"><title>Exercises</title><section id="fs-id1808116" class="practice-perfect"><title>Practice Makes Perfect</title><para id="fs-id2164361"><emphasis effect="bold">Multiply Fractions</emphasis> </para><para id="eip-661">In the following exercises, use a diagram to model.</para><exercise id="fs-id1893304">
+<problem id="fs-id1408242">
+<para id="fs-id1288130"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1284174">
+<para id="fs-id2348804"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1373285">
+<problem id="fs-id2278341">
+<para id="fs-id1484783"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2261168">
+<problem id="fs-id1345738">
+<para id="fs-id2314456"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1913808">
+<para id="fs-id1515486"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1389494">
+<problem id="fs-id1597497">
+<para id="fs-id2220562"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1943541">In the following exercises, multiply, and write the answer in simplified form.</para>
+<exercise id="fs-id2715472">
+<problem id="fs-id1631522">
+<para id="fs-id2661041"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1973825">
+<para id="fs-id1336323"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1544169">
+<problem id="fs-id1308438">
+<para id="fs-id2376745"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2266856">
+<problem id="fs-id2777560">
+<para id="fs-id1517644"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1529110">
+<para id="fs-id2204669"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>27</m:mn></m:mrow><m:mrow><m:mn>40</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id3302583">
+<problem id="fs-id1842765">
+<para id="fs-id1973900"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2924529">
+<problem id="fs-id1773352">
+<para id="fs-id1405782"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1594436">
+<para id="fs-id1596023"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id2418810"><problem id="fs-id2486497">
+<para id="fs-id1461123"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id2167868">
+<problem id="fs-id2334193">
+<para id="fs-id1827310"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id2471763">
+<para id="fs-id1935703"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2669693">
+<problem id="fs-id2129525">
+<para id="fs-id1841592"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2314753">
+<problem id="fs-id4219942">
+<para id="fs-id2247424"><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>21</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1523740">
+<para id="fs-id3301361"><m:math><m:mrow><m:mo/><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2603810">
+<problem id="fs-id1935472">
+<para id="fs-id1800026"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id3208477">
+<problem id="fs-id2426558">
+<para id="fs-id3242540"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>20</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id2172399">
+<para id="fs-id2472033"><m:math><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>21</m:mn></m:mrow><m:mrow><m:mn>50</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1858616">
+<problem id="fs-id1544270">
+<para id="fs-id2474584"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>33</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1415856">
+<problem id="fs-id1410437">
+<para id="fs-id1365265"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>63</m:mn></m:mrow><m:mrow><m:mn>84</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>44</m:mn></m:mrow><m:mrow><m:mn>90</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id2903896">
+<para id="fs-id1253704"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>30</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1988914">
+<problem id="fs-id1960568">
+<para id="fs-id1774638"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>33</m:mn></m:mrow><m:mrow><m:mn>60</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mrow><m:mn>40</m:mn></m:mrow><m:mrow><m:mn>88</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2385626">
+<problem id="fs-id1632740">
+<para id="fs-id1943455"><m:math><m:mrow><m:mn>4</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2300299">
+<para id="fs-id2310300"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>20</m:mn></m:mrow><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1265553">
+<problem id="fs-id1807110">
+<para id="fs-id2462705"><m:math><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2597475">
+<problem id="fs-id1322046">
+<para id="fs-id2273325"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>21</m:mn><m:mi/></m:mrow></m:math></para></problem>
+<solution id="fs-id2294024">
+<para id="fs-id2136649">9</para></solution>
+</exercise>
+<exercise id="fs-id1739679">
+<problem id="fs-id1721195">
+<para id="fs-id1739375"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>30</m:mn></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1883587">
+<problem id="fs-id2946722">
+<para id="fs-id1065470"><m:math><m:mrow><m:mn>28</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1582653">
+<para id="fs-id1202611">7</para></solution>
+</exercise>
+<exercise id="fs-id2319438">
+<problem id="fs-id1916860">
+<para id="fs-id1517659"><m:math><m:mrow><m:mn>51</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mo/><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2270973">
+<problem id="fs-id2626245">
+<para id="fs-id2392352"><m:math><m:mrow><m:mn>8</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>17</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1629524">
+<para id="fs-id1508872">34</para></solution>
+</exercise>
+<exercise id="fs-id1358294">
+<problem id="fs-id2908974">
+<para id="fs-id1906198"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>15</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1890930">
+<problem id="fs-id1947524">
+<para id="fs-id1406067"><m:math><m:mrow><m:mn>1</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id2818995">
+<para id="fs-id1863175"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1369143">
+<problem id="fs-id1127333">
+<para id="fs-id1530908"><m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<para id="fs-id1308636"><emphasis effect="bold">Find Reciprocals</emphasis> </para><para id="eip-564">In the following exercises, find the reciprocal.</para><exercise id="fs-id1415472">
+<problem id="fs-id2137646">
+<para id="fs-id1335579"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1265907">
+<para id="fs-id2159646"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1189140">
+<problem id="fs-id2793268">
+<para id="fs-id1572133"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2817673">
+<problem id="fs-id3413567">
+<para id="fs-id1338287"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>17</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id1858104">
+<para id="fs-id1683794"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>17</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1833710">
+<problem id="fs-id2275916">
+<para id="fs-id2261370"><m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>19</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1569021">
+<problem id="fs-id2472662">
+<para id="fs-id3448046"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2294014">
+<para id="fs-id4121433"><m:math><m:mrow><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1151897">
+<problem id="fs-id2819000">
+<para id="fs-id2754506"><m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2362865">
+<problem id="fs-id1736946">
+<para id="fs-id1395612"><m:math><m:mrow><m:mn>19</m:mn></m:mrow></m:math></para></problem>
+<solution id="fs-id1542704">
+<para id="fs-id1884715"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>19</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1041245">
+<problem id="fs-id2774872">
+<para id="fs-id1586208"><m:math><m:mn>1</m:mn></m:math></para>
+</problem>
+<solution id="fs-id1367155">
+<para id="fs-id2707625">1</para>
+</solution>
+</exercise>
+<para id="fs-id1607610"><emphasis effect="bold">Divide Fractions</emphasis> </para><para id="eip-640">In the following exercises, model each fraction division.</para><exercise id="fs-id764835">
+<problem id="fs-id782662">
+<para id="fs-id2299819"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1465303">
+<problem id="fs-id3165768">
+<para id="fs-id1571326"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2279098">
+<para id="fs-id2377015">4</para>
+</solution>
+</exercise>
+<exercise id="fs-id1916693">
+<problem id="fs-id2157212">
+<para id="fs-id4201392"><m:math><m:mrow><m:mn>2</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1578681">
+<problem id="fs-id2912460">
+<para id="fs-id1956495"><m:math><m:mrow><m:mn>3</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2439629">
+<para id="fs-id1366632">12</para>
+</solution>
+</exercise>
+<para id="fs-id1464458">In the following exercises, divide, and write the answer in simplified form.</para>
+<exercise id="fs-id1858302">
+<problem id="fs-id1742800">
+<para id="fs-id1531440"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1566978">
+<problem id="fs-id2129236">
+<para id="fs-id1344614"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1801438">
+<para id="fs-id2459937">4</para>
+</solution>
+</exercise>
+<exercise id="fs-id2594981">
+<problem id="fs-id2170418">
+<para id="fs-id1778575"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2427735">
+<problem id="fs-id2657860">
+<para id="fs-id2301622"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1357360">
+<para id="fs-id1549993"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1406691">
+<problem id="fs-id1374368">
+<para id="fs-id4130836"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2933662">
+<problem id="fs-id2260910">
+<para id="fs-id1925576"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id2246011">
+<para id="fs-id1129185"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2212160">
+<problem id="fs-id1804559">
+<para id="fs-id1833337"><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1518697">
+<problem id="fs-id2176000">
+<para id="fs-id2904124"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1525626">
+<para id="fs-id1239717">1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1929066">
+<problem id="fs-id2903385">
+<para id="fs-id1365407"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id4428673">
+<problem id="fs-id1756541">
+<para id="fs-id2298383"><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>27</m:mn></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1358784">
+<para id="fs-id2428251"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2339794"><problem id="fs-id1890889">
+<para id="fs-id1314637"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>21</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id3334258">
+<problem id="fs-id1265763">
+<para id="fs-id1581964"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id2261312">
+<para id="fs-id2142397"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1524310">
+<problem id="fs-id3327298">
+<para id="fs-id2678771"><m:math><m:mrow><m:mn>5</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2290556">
+<problem id="fs-id1564608">
+<para id="fs-id2256382"><m:math><m:mrow><m:mn>3</m:mn><m:mo>÷</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id1392556">
+<para id="fs-id4211897">12</para></solution>
+</exercise>
+<exercise id="fs-id2301291">
+<problem id="fs-id2296022">
+<para id="fs-id1265110"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>12</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1824762">
+<problem id="fs-id2133939">
+<para id="fs-id2139654"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1509351">
+<para id="fs-id3202250"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1580957">
+<problem id="fs-id2495471">
+<para id="fs-id2392385"><m:math><m:mrow><m:mn>18</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1516451">
+<problem id="fs-id3326215">
+<para id="fs-id1166761302391"><m:math><m:mrow><m:mn>15</m:mn><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1739742">
+<para id="fs-id2751709">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1862910">
+<problem id="fs-id1733322">
+<para id="fs-id2605964"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>÷</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1322092">
+<problem id="fs-id1909806">
+<para id="fs-id2365358"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id4174321">
+<para id="fs-id1744306"><m:math><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section><section id="fs-id3415453" class="everyday">
+<title>Everyday Math</title>
+<exercise id="fs-id2058741">
+<problem id="fs-id1385591">
+<para id="fs-id1595594"><emphasis effect="bold">Baking</emphasis> A recipe for chocolate chip cookies calls for <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> cup brown sugar. Imelda wants to double the recipe.</para>
+<para id="fs-id3273825"><span class="token">ⓐ</span> How much brown sugar will Imelda need? Show your calculation. Write your result as an improper fraction and as a mixed number.</para><para id="fs-id1339503"><span class="token">ⓑ</span> Measuring cups usually come in sets of <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn></m:mrow></m:math> cup. Draw a diagram to show two different ways that Imelda could measure the brown sugar needed to double the recipe.</para></problem>
+</exercise>
+<exercise id="fs-id2436125">
+<problem id="fs-id1772478">
+<para id="fs-id2619219"><emphasis effect="bold">Baking</emphasis> Nina is making <m:math><m:mn>4</m:mn></m:math> pans of fudge to serve after a music recital. For each pan, she needs <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math> cup of condensed milk.</para>
+<para id="fs-id2409887"><list id="eip-id1168469343959" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> How much condensed milk will Nina need? Show your calculation. Write your result as an improper fraction and as a mixed number.</item>
+<item><span class="token">ⓑ</span> Measuring cups usually come in sets of <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>,</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>,</m:mo><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>1</m:mn></m:mrow></m:math> cup. Draw a diagram to show two different ways that Nina could measure the condensed milk she needs.</item></list></para></problem>
+<solution id="fs-id1920318">
+<para id="fs-id2430749"><list id="eip-id1168469629616" list-type="labeled-item"><item><span class="token">ⓐ</span> <m:math><m:mn>4</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:math></item>
+<item><span class="token">ⓑ</span> Answers will vary.</item></list></para></solution>
+</exercise>
+<exercise id="fs-id1566824">
+<problem id="fs-id2390932">
+<para id="fs-id2690818"><emphasis effect="bold">Portions</emphasis> Don purchased a bulk package of candy that weighs <m:math><m:mn>5</m:mn></m:math> pounds. He wants to sell the candy in little bags that hold <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> pound. How many little bags of candy can he fill from the bulk package?</para>
+</problem>
+</exercise>
+<exercise id="fs-id2379502">
+<problem id="fs-id2495445">
+<para id="fs-id2925973"><emphasis effect="bold">Portions</emphasis> Kristen has <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> yards of ribbon. She wants to cut it into equal parts to make hair ribbons for her daughter’s <m:math><m:mn>6</m:mn></m:math> dolls. How long will each doll’s hair ribbon be?</para>
+</problem>
+<solution id="fs-id2645994">
+<para id="fs-id1828264"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mtext>yard</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2662316" class="writing">
+<title>Writing Exercises</title>
+<exercise id="fs-id2300631">
+<problem id="fs-id2849921">
+<para id="fs-id1747023">Explain how you find the reciprocal of a fraction.</para>
+</problem>
+</exercise>
+<exercise id="fs-id2151092">
+<problem id="fs-id2670466">
+<para id="fs-id1739310">Rafael wanted to order half a medium pizza at a restaurant. The waiter told him that a medium pizza could be cut into <m:math><m:mn>6</m:mn></m:math> or <m:math><m:mn>8</m:mn></m:math> slices. Would he prefer <m:math><m:mn>3</m:mn></m:math> out of <m:math><m:mn>6</m:mn></m:math> slices or <m:math><m:mn>4</m:mn></m:math> out of <m:math><m:mn>8</m:mn></m:math> slices? Rafael replied that since he wasn’t very hungry, he would prefer <m:math><m:mn>3</m:mn></m:math> out of <m:math><m:mn>6</m:mn></m:math> slices. Explain what is wrong with Rafael’s reasoning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1463166">
+<problem id="fs-id2278796">
+<para id="fs-id1680911">Give an example from everyday life that demonstrates how <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mspace width="0.5em"/><m:mtext>is</m:mtext><m:mspace width="0.5em"/><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2833205">
+<para id="fs-id2431305">Answers will vary.</para>
+</solution>
+</exercise>
+</section><section id="eip-621" class="self-check"><title>Self Check</title><para id="eip-id1168469711232"><span class="token">ⓐ</span> After completing the exercises, use this checklist to evaluate your mastery of the objectives of this section.
+</para>
+
+<figure id="eip-id1165720786210" class="unnumbered"><label/><media id="eip-id1165720786213" alt="."><image mime-type="image/jpg" src="../../media/CNX_BMath_Figure_AppB_020.jpg"/></media></figure><para id="eip-id1168466075811"><span class="token">ⓑ</span> After reviewing this checklist, what will you do to become confident for all objectives?
+</para>
+</section></section></content>
+<glossary>
+
+<definition id="fs-id2946118"><term>reciprocal</term><meaning id="fs-id2447033">The reciprocal of the fraction <m:math><m:mfrac><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac></m:math> is <m:math><m:mfrac><m:mrow><m:mi>b</m:mi></m:mrow><m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:math> where <m:math><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math> and <m:math><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>.</meaning></definition>
+</glossary>
+</document>
