@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction to Systems of Equations and Inequalities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64524</md:content-id>
+  <md:title>Introduction to Systems of Equations and Inequalities</md:title>
+  <md:abstract/>
+  <md:uuid>4e13f935-c7d0-414a-abf4-6dbcb7ad153e</md:uuid>
+</metadata>
+
+<content>
+<figure id="Figure_09_00_001" class="splash"><media id="fs-id1165134248824" alt="">
+<image mime-type="image/jpg" src="../../media/CNX_Precalc_Figure_09_00_001.jpg"/>
+</media>
+<caption>Enigma machines like this one, once owned by Italian dictator Benito Mussolini, were used by government and military officials for enciphering and deciphering top-secret communications during World War II. (credit: Dave Addey, Flickr)</caption></figure><para id="fs-id1165133091456">By 1943, it was obvious to the Nazi regime that defeat was imminent unless it could build a weapon with unlimited destructive power, one that had never been seen before in the history of the world. In September, Adolf Hitler ordered German scientists to begin building an atomic bomb. Rumors and whispers began to spread from across the ocean. Refugees and diplomats told of the experiments happening in Norway. However, Franklin D. Roosevelt wasn’t sold, and even doubted British Prime Minister Winston Churchill’s warning. Roosevelt wanted undeniable proof. Fortunately, he soon received the proof he wanted when a group of mathematicians cracked the “Enigma” code, proving beyond a doubt that Hitler was building an atomic bomb. The next day, Roosevelt gave the order that the United States begin work on the same.</para>
+
+<para id="fs-id1165134041946">The Enigma is perhaps the most famous cryptographic device ever known. It stands as an example of the pivotal role cryptography has played in society. Now, technology has moved cryptanalysis to the digital world.</para>
+
+<para id="fs-id1165137427219">Many ciphers are designed using invertible matrices as the method of message transference, as finding the inverse of a matrix is generally part of the process of decoding. In addition to knowing the matrix and its inverse, the receiver must also know the key that, when used with the matrix inverse, will allow the message to be read.</para>
+
+<para id="fs-id1165135449595">In this chapter, we will investigate matrices and their inverses, and various ways to use matrices to solve systems of equations. First, however, we will study systems of equations on their own: linear and nonlinear, and then partial fractions. We will not be breaking any secret codes here, but we will lay the foundation for future courses.</para>
+
+</content>
+
+</document>

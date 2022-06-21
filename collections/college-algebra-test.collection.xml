@@ -1,0 +1,293 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col12187</md:content-id>
+  <md:title>College Algebra Test</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>559ae962-c73f-4900-825c-8b9e299a325b</md:uuid>
+<md:slug>college-algebra-test</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m64435"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Prerequisites</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64431"/>
+        
+      
+    
+    
+      <col:module document="m64333"/>
+        
+      
+    
+    
+      <col:module document="m64334"/>
+        
+      
+    
+    
+      <col:module document="m64335"/>
+        
+      
+    
+    
+      <col:module document="m64337"/>
+        
+      
+    
+    
+      <col:module document="m64341"/>
+        
+      
+    
+    
+      <col:module document="m64318"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Equations and Inequalities</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64436"/>
+        
+      
+    
+    
+      <col:module document="m64455"/>
+        
+      
+    
+    
+      <col:module document="m64441"/>
+        
+      
+    
+    
+      <col:module document="m64445"/>
+        
+      
+    
+    
+      <col:module document="m64452"/>
+        
+      
+    
+    
+      <col:module document="m64449"/>
+        
+      
+    
+    
+      <col:module document="m64320"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64465"/>
+        
+      
+    
+    
+      <col:module document="m64472"/>
+        
+      
+    
+    
+      <col:module document="m64474"/>
+        
+      
+    
+    
+      <col:module document="m64469"/>
+        
+      
+    
+    
+      <col:module document="m64461"/>
+        
+      
+    
+    
+      <col:module document="m64456"/>
+        
+      
+    
+    
+      <col:module document="m64321"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Linear Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64475"/>
+        
+      
+    
+    
+      <col:module document="m64482"/>
+        
+      
+    
+    
+      <col:module document="m64480"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Polynomial and Rational Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64483"/>
+        
+      
+    
+    
+      <col:module document="m64485"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Exponential and Logarithmic Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64493"/>
+        
+      
+    
+    
+      <col:module document="m64494"/>
+        
+      
+    
+    
+      <col:module document="m64502"/>
+        
+      
+    
+    
+      <col:module document="m64499"/>
+        
+      
+    
+    
+      <col:module document="m64505"/>
+        
+      
+    
+    
+      <col:module document="m64507"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Systems of Equations and Inequalities</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64524"/>
+        
+      
+    
+    
+      <col:module document="m64519"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
