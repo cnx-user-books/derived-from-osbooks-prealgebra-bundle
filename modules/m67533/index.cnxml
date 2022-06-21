@@ -1,0 +1,116 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Converting Units</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67533</md:content-id>
+  <md:title>Converting Units</md:title>
+  <md:abstract>In this modules, students will learn how to convert units, using the method of dimensional analysis.</md:abstract>
+  <md:uuid>13b2dab4-324f-4564-9f1d-d4b70d021a5d</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-956"><term>Dimensional analysis</term>, also known as unit analysis, is a systematic method from converting from one kind of unit of measurement to another. It is used extensively in chemistry and other science related fields. It is an extremely valuable skill to learn, especially when solving complicated application problems.</para><para id="delete_me">To convert from one unit of measurement to another (like inches to feet) using dimensional analysis, we use what are called <term>unit ratios</term>. Unit ratios are ratios (or fractions) which are equivalent to 1. Remember that a fraction is equivalent to 1 when the numerator and denominator are the same. With unit ratios, the numerator and denominator represent the same measurement, but with different units.<newline/><newline/>
+
+Here are some examples of unit ratios involving units of length:<newline/>
+
+<figure id="eip-id1170232147491"><media id="eip-id1170228626925" alt="Four examples of unit ratios"><image src="../../media/unit ratios.png" mime-type="image/png" width="240">
+</image></media></figure>
+
+These ratios are created from the conversion facts that there are 12 inches in a foot and 3 feet in a yard.</para><para id="eip-963">Notice that each conversion fact above gives two possible unit ratios. Deciding which one to use will depend on where units need to be placed in order to cross cancel. In dimensional analysis, we multiply ratios together and cancel common units the same way we cancel common factors when multiplying fractions.</para><para id="eip-191">Refer to the <link document="m62525"> U.S. Standard Measuring System </link> for conversion facts that will be used in the following examples and homework problems.</para><example id="eip-389"><exercise id="eip-idm984358208"><problem id="eip-idm947469312"><para id="eip-975">Convert 60 inches into feet.</para></problem>
+<solution id="eip-idm381979344">
+<figure id="eip-id1166114056102"><media id="eip-id1166115182432" alt="60 inches to feet"><image src="../../media/Dimensional Analysis Example 1.png" mime-type="image/png" width="480"/></media></figure><para id="eip-idm1013249008">
+
+Notice that we start by writing what we are converting as a ratio, by placing it over a 1. This is similar to writing a whole number as a fraction when we want to multiply it times a fraction.</para></solution>
+</exercise></example><example id="eip-415"><exercise id="eip-idm183120512"><problem id="eip-idm236387504"><para id="eip-868">
+  Convert 1760 feet into miles.</para></problem>
+<solution id="eip-idm1462455520">
+<figure id="eip-id861076"><media id="eip-id839519" alt="1760 feet into miles"><image src="../../media/Dimensional Analysis Example 2.png" mime-type="image/png" width="480"/></media></figure>
+</solution>
+</exercise></example><para id="eip-804">In the two previous examples, only one unit ratio was needed to make the conversion. However, in most cases, we need more than one unit ratio. In those situations, we have to consider the conversion facts that are available and then make a plan.</para><example id="eip-435"><exercise id="eip-idm1231322976"><problem id="eip-idm236802320"><para id="eip-894">Convert 35 yards into miles.</para></problem>
+<solution id="eip-idm1506100336">
+<figure id="eip-id1166810192511"><media id="eip-id1166810280587" alt="35 yards into miles"><image src="../../media/Dimensional Analysis Example 3.png" mime-type="image/png" width="480"/></media></figure>
+<para id="eip-idm1248251248">
+Since there are no conversion facts on our list of facts to memorize that relate yards and miles, we had to use two unit ratios. First, we converted yards to feet, using the fact that there are 3 feet in a yard. Then, we converted the feet to miles, using the fact that there are 5280 feet in a mile.</para></solution>
+</exercise></example><note id="eip-864" class="try"><label/><title>Try It</title>
+<exercise id="eip-id1170228677470"><problem id="eip-id1170227056171"><para id="eip-id1170228618485">Use dimensional analysis to convert 0.75 miles into inches.</para></problem>
+
+<solution id="eip-id1168577388149"><para id="eip-id1168577398390"><figure id="eip-id1168577398666"><media id="eip-id1168577394868" alt="0.75 miles into inches"><image src="../../media/DA TryIt 1.png" mime-type="image/png" print-width="2in" width="280"/></media></figure></para></solution></exercise></note><example id="eip-43"><para id="eip-id1163992786358">
+  Convert 3 pounds into ounces.
+
+<figure id="eip-id2938655"><media id="eip-id1163992906427" alt="3 pounds into ounces"><image src="../../media/Dimensional Analysis Example 4.png" mime-type="image/png" width="480"/></media></figure>
+</para>
+
+</example><example id="eip-26"><exercise id="eip-idm1427264400"><problem id="eip-idm1198122880"><para id="eip-313">
+  How many gallons are in 34 quarts?</para></problem>
+<solution id="eip-idm344802944">
+<figure id="eip-id2946659"><media id="eip-id2946660" alt="34 quarts into gallons"><image src="../../media/Dimensional Analysis Example 5.png" mime-type="image/png" width="480"/></media></figure></solution>
+</exercise>
+</example><example id="eip-947"><exercise id="eip-idm837567552"><problem id="eip-idm806112112"><para id="eip-220">
+ How many ounces are in 7 gallons?</para></problem>
+<solution id="eip-idm286209296">
+<figure id="eip-id2100308"><media id="eip-id2100458" alt="7 gallons into ounces"><image src="../../media/Dimensional Analysis Example 6.png" mime-type="image/png" width="480"/></media></figure>
+<para id="eip-idm2309563824">
+Notice that several unit ratios are needed here. The first one has gallons in the denominator so that the gallons will cross cancel. Then, a second one has quarts in the denominator so that the quarts will cross cancel. This process continues until all units cancel except for the units that you are converting to.
+</para>
+</solution>
+</exercise></example><note id="eip-296" class="try"><label/><title>Try It</title>
+<exercise id="eip-id1168727444363"><problem id="eip-id1168728164810"><para id="eip-id1168728164811">Use dimension analysis to answer the question: How many quarts are there in 100 cups?</para></problem>
+<solution id="eip-id1168728152124"><para id="eip-id1168728152125"><figure id="eip-id1168727446256"><media id="eip-id1168727446257" alt="100 cups into quarts"><image src="../../media/DA TryIt 2.png" mime-type="image/png" print-width="2in" width="280"/></media></figure></para></solution></exercise></note>
+
+<section id="eip-183" class="section-exercises"><title>Homework</title><para id="eip-658">Use dimensional analysis to complete the following homework exercises. Even though only final answers will be shown in the given solutions, be sure to write down the process, just as it has been shown to you.
+</para><exercise id="eip-146"><problem id="eip-857">
+  <para id="eip-948">
+    Convert 22.5 yards to inches.
+  </para>
+</problem>
+
+<solution id="eip-941">
+  <para id="eip-95">
+   810 inches
+  </para>
+</solution>
+</exercise><exercise id="eip-395"><problem id="eip-779">
+  <para id="eip-796">
+    Convert 3 gallons to pints.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-893"><problem id="eip-231">
+  <para id="eip-625">
+    How many pounds are in 500 ounces?
+  </para>
+</problem>
+
+<solution id="eip-263">
+  <para id="eip-788">
+    31.25 lb.
+  </para>
+</solution>
+</exercise><exercise id="eip-656"><problem id="eip-475">
+  <para id="eip-304">
+    How many miles are in 26,928 ft?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-333"><problem id="eip-762">
+  <para id="eip-851">
+    Convert 1000 yards into miles.
+  </para>
+</problem>
+
+<solution id="eip-531">
+  <para id="eip-226">
+   Approximately, 0.57 miles.
+  </para>
+</solution>
+</exercise><exercise id="eip-80"><problem id="eip-52">
+  <para id="eip-55">
+    Convert 2.5 quarts to fl. oz.
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

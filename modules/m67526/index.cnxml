@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Using the Change-of-Base Formula to Evaluate Logarithms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67526</md:content-id>
+  <md:title>Using the Change-of-Base Formula to Evaluate Logarithms</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Use the Change-of-Base Formula to evaluate logarithms with bases other than 10 or e.</item>
+</list></md:abstract>
+  <md:uuid>5c8cd790-c1b7-4515-80e1-13f38d61e67d</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id1167836326175" class="be-prepared">
+<para id="fs-id1167836518374">Before you get started, take this readiness quiz.</para>
+<list id="fs-id1167829908076" list-type="enumerated" number-style="arabic">
+<item>Evaluate: <span class="token">ⓐ</span> <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>0</m:mn></m:msup></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:msup><m:mi>a</m:mi><m:mn>1</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id1167834095326" document="m63345"/>.</item>
+<item>Write with a rational exponent: <m:math><m:mrow><m:mroot><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mi>y</m:mi></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:mroot><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id1169145489074" document="m63402"/>.</item>
+<item>Round to three decimal places: 2.5646415.<newline/>
+If you missed this problem, review <link target-id="fs-id1167836309901" document="m63305"/>.</item>
+</list>
+</note>
+<section id="fs-id1167825660092">
+<title>Use the Change-of-Base Formula</title>
+<para id="fs-id1167829984062">To evaluate a logarithm with any base other than 10 or <m:math><m:mi>e</m:mi></m:math>, we can use the <term class="no-emphasis">Change-of-Base Formula</term>. Understanding why this formula works is beyond the scope of this course, but may be covered, along with many properties of logarithms, in your next college algebra course.</para><para id="fs-id1167836356469">The Change-of-Base Formula introduces a new base <m:math><m:mrow><m:mi>b</m:mi><m:mo>.</m:mo></m:mrow></m:math> This can be any base <m:math><m:mi>b</m:mi></m:math> we want where <m:math><m:mrow><m:mi>b</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math> Because our calculators have keys for logarithms base 10 and base <emphasis effect="italics">e</emphasis>, we will rewrite the Change-of-Base Formula with the new base as 10 or <m:math><m:mi>e</m:mi></m:math>.</para><note id="fs-id1167833274079">
+<title>Change-of-Base Formula</title>
+<para id="fs-id1167829788705">For any logarithmic base <m:math><m:mi>b</m:mi><m:mo>,</m:mo></m:math> where <m:math><m:mi>b</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>1</m:mn></m:math>, and <m:math><m:mrow><m:mi>M</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math></para><equation id="eip-41"><m:math>
+  <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     <m:mtext>     or     </m:mtext><m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mtext>   new base 10                    new base e</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>  
+</m:math>
+</equation><para id="eip-280">As you can see, you can choose to use either the "log" button or the "ln" button on your calculator to evaluate (find the value of) a logarithm with a base other than 10 or <m:math><m:mi>e</m:mi></m:math>. The important thing to remember is that you divide the log of the input by the log of the base and that you must use the same log button for both.</para></note>
+<para id="fs-id1168756556563">When we use a calculator to find the logarithm value, we usually round to three decimal places. This gives us an approximate value and so we use the approximately equal symbol <m:math><m:mrow><m:mtext>(≈)</m:mtext></m:mrow></m:math>.</para>
+<example id="fs-id1167836614208">
+<exercise id="fs-id1167836614210">
+<problem id="fs-id1167836608436">
+<para id="fs-id1167836608438">Rounding to three decimal places, approximate <m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mn>35</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1167836539229">
+<table id="fs-id1167829741851" class="unnumbered unstyled" summary="We examine log sub 4 of 35. First, we use the change of base formula log sub a of M equals log sub b of M over log sub b of a, where a is blue and M is red. Then we identify a and M and choose 10 for b. This gives log sub 4 of 35 equals log of 35 over log of 4 where 4 is blue and 35 is red. Enter the expression log of 35 over log of 4 in the calculator using the log button for base 10. Hence, log sub 4 of 35 is approximately 2.5646."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="left">
+<media id="fs-id1167836620865" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_04_001a_img.jpg"/>
+</media>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Use the Change-of-Base Formula.</entry>
+<entry valign="top" align="left"><m:math>
+  <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     <m:mtext>     or     </m:mtext><m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>  
+</m:math>
+
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Identify <m:math><m:mi>b</m:mi></m:math> and <m:math><m:mi>M</m:mi></m:math>. Choose log base 10 to evaluate the log.</entry>
+<entry valign="top" align="left"><media id="fs-id1167833057205" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_04_001c_img.jpg"/>
+</media>
+</entry>
+</row>
+<row>
+<entry valign="top" align="left">Enter the expression <m:math><m:mrow><m:mfrac><m:mrow><m:mtext>log</m:mtext><m:mn>35</m:mn></m:mrow><m:mrow><m:mtext>log</m:mtext><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:math> in the calculator<newline/>using the log button for base 10. Round to three decimal places.</entry>
+<entry valign="bottom" align="left"><media id="fs-id1167836391639" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_10_04_001d_img.jpg"/>
+</media>
+</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise>
+</example>
+<note id="fs-id1167824735515" class="try">
+<exercise id="fs-id1167824735518">
+<problem id="fs-id1167836595915">
+<para id="fs-id1167836595917">Rounding to three decimal places, approximate <m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mn>42</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1167836704928">
+<para id="fs-id1167833369849"><m:math><m:mrow><m:mn>3.402</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1167836574009" class="try">
+<exercise id="fs-id1167829739081">
+<problem id="fs-id1167829739083">
+<para id="fs-id1167836529766">Rounding to three decimal places, approximate <m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:mn>46</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1167829833480">
+<para id="fs-id1167829833482"><m:math><m:mrow><m:mn>2.379</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1167836627853" class="media-2">
+<para id="fs-id1167836547696">Access these online resources for additional instruction and practice with using the change-of-base formula.</para><list id="fs-id1167833379361" display="block"><item><link url="https://openstax.org/l/37Changeofbase">Change of Base</link></item>
+</list></note>
+</section>
+<section id="fs-id1167836540486" class="key-concepts">
+<title>Key Concepts</title>
+<list id="fs-id1167836341093" list-type="bulleted" bullet-style="bullet"><item><emphasis effect="bold">Change-of-Base Formula</emphasis><newline/><newline/>
+<para id="eip-idm419567776">For any logarithmic base <m:math><m:mi>b</m:mi><m:mo>,</m:mo></m:math> where <m:math><m:mi>b</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>≠</m:mo><m:mn>1</m:mn></m:math>, and <m:math><m:mrow><m:mi>M</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>,</m:mo></m:mrow></m:math></para><equation id="eip-idm640117760"><m:math>
+  <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>log</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     <m:mtext>     or     </m:mtext><m:msub>
+      <m:mi>log</m:mi>
+      <m:mi>b</m:mi>
+     </m:msub>
+     <m:mi>M</m:mi><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>M</m:mi></m:mrow>
+      <m:mrow>
+       <m:mi>ln</m:mi><m:mi>b</m:mi></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mtext>   new base 10                    new base e</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>  
+</m:math>
+</equation></item></list></section>
+<section id="fs-id1167829579253" class="section-exercises">
+<section id="fs-id1167829579256" class="practice-perfect">
+<title>Practice Makes Perfect</title>
+<para id="fs-id1167829752238"><emphasis effect="bold">Use the Change-of-Base Formula</emphasis></para>
+<para id="fs-id1167829752244">In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm.</para>
+<exercise id="fs-id1167836440621" class="material-set-2">
+<problem id="fs-id1167836440623">
+<para id="fs-id1167836440625"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mn>42</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167836666277" class="material-set-2">
+<problem id="fs-id1167836666279">
+<para id="fs-id1167836666281"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>5</m:mn></m:msub><m:mn>78</m:mn></m:mrow></m:math></para></problem>
+<solution id="fs-id1167833207818">
+<para id="fs-id1167833207820"><m:math><m:mrow><m:mn>2.707</m:mn></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1167836553636" class="material-set-2">
+<problem id="fs-id1167836553638">
+<para id="fs-id1167836553640"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:msub><m:mn>87</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167836541801" class="material-set-2">
+<problem id="fs-id1167836541803">
+<para id="fs-id1167836541806"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:msub><m:mn>93</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1167829597751">
+<para id="fs-id1167829597753"><m:math><m:mrow><m:mn>1.674</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1167836622300" class="material-set-2">
+<problem id="fs-id1167836622302">
+<para id="fs-id1167836622305"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:msub><m:mn>17</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167829619908" class="material-set-2">
+<problem id="fs-id1167829619910">
+<para id="fs-id1167836578895"><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:msub><m:mn>21</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1167829579779">
+<para id="fs-id1167829579781"><m:math><m:mrow><m:mn>5.542</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167833142624" class="writing">
+<title>Writing Exercises</title>
+<exercise id="fs-id1167836507679" class="material-set-2">
+<problem id="fs-id1167836507681">
+<para id="fs-id1167836605123">Explain how to find the value of <m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mn>7</m:mn></m:msub><m:mn>15</m:mn></m:mrow></m:math> using your calculator.</para>
+</problem>
+<solution id="fs-id1167833007369">
+<para id="fs-id1167833007371">Answers will vary.</para>
+</solution>
+</exercise>
+</section>
+</section>
+</content>
+</document>

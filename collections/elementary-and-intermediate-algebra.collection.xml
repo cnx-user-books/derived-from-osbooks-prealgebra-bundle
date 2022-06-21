@@ -1,0 +1,579 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col25302</md:content-id>
+  <md:title>Elementary and Intermediate Algebra</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>f311bc9d-de71-467f-9df2-bb1a76444190</md:uuid>
+<md:slug>elementary-and-intermediate-algebra</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m63592"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Foundations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60207"/>
+        
+      
+    
+    
+      <col:module document="m66086"/>
+        
+      
+    
+    
+      <col:module document="m66089"/>
+        
+      
+    
+    
+      <col:module document="m66090"/>
+        
+      
+    
+    
+      <col:module document="m66091"/>
+        
+      
+    
+    
+      <col:module document="m66092"/>
+        
+      
+    
+    
+      <col:module document="m66093"/>
+        
+      
+    
+    
+      <col:module document="m66094"/>
+        
+      
+    
+    
+      <col:module document="m66095"/>
+        
+      
+    
+    
+      <col:module document="m66097"/>
+        
+      
+    
+    
+      <col:module document="m67533"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Solving Linear Equations and Inequalities</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60216"/>
+        
+      
+    
+    
+      <col:module document="m66099"/>
+        
+      
+    
+    
+      <col:module document="m66100"/>
+        
+      
+    
+    
+      <col:module document="m66101"/>
+        
+      
+    
+    
+      <col:module document="m66102"/>
+        
+      
+    
+    
+      <col:module document="m60261"/>
+        
+      
+    
+    
+      <col:module document="m66103"/>
+        
+      
+    
+    
+      <col:module document="m66104"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Math Models</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60222"/>
+        
+      
+    
+    
+      <col:module document="m66313"/>
+        
+      
+    
+    
+      <col:module document="m66763"/>
+        
+      
+    
+    
+      <col:module document="m66318"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Graphs of Linear Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60319"/>
+        
+      
+    
+    
+      <col:module document="m60150"/>
+        
+      
+    
+    
+      <col:module document="m60273"/>
+        
+      
+    
+    
+      <col:module document="m60278"/>
+        
+      
+    
+    
+      <col:module document="m60149"/>
+        
+      
+    
+    
+      <col:module document="m60151"/>
+        
+      
+    
+    
+      <col:module document="m60267"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Systems of Linear Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60153"/>
+        
+      
+    
+    
+      <col:module document="m66761"/>
+        
+      
+    
+    
+      <col:module document="m66760"/>
+        
+      
+    
+    
+      <col:module document="m66759"/>
+        
+      
+    
+    
+      <col:module document="m66762"/>
+        
+      
+    
+    
+      <col:module document="m66803"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Polynomials</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60186"/>
+        
+      
+    
+    
+      <col:module document="m66325"/>
+        
+      
+    
+    
+      <col:module document="m66327"/>
+        
+      
+    
+    
+      <col:module document="m66329"/>
+        
+      
+    
+    
+      <col:module document="m66330"/>
+        
+      
+    
+    
+      <col:module document="m66332"/>
+        
+      
+    
+    
+      <col:module document="m66766"/>
+        
+      
+    
+    
+      <col:module document="m66333"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Factoring</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60301"/>
+        
+      
+    
+    
+      <col:module document="m66776"/>
+        
+      
+    
+    
+      <col:module document="m66767"/>
+        
+      
+    
+    
+      <col:module document="m66769"/>
+        
+      
+    
+    
+      <col:module document="m66770"/>
+        
+      
+    
+    
+      <col:module document="m66771"/>
+        
+      
+    
+    
+      <col:module document="m66775"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Rational Expressions and Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60356"/>
+        
+      
+    
+    
+      <col:module document="m66777"/>
+        
+      
+    
+    
+      <col:module document="m66778"/>
+        
+      
+    
+    
+      <col:module document="m60355"/>
+        
+      
+    
+    
+      <col:module document="m66780"/>
+        
+      
+    
+    
+      <col:module document="m66779"/>
+        
+      
+    
+    
+      <col:module document="m66781"/>
+        
+      
+    
+    
+      <col:module document="m66782"/>
+        
+      
+    
+    
+      <col:module document="m66783"/>
+        
+      
+    
+    
+      <col:module document="m66784"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Roots and Radicals</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60303"/>
+        
+      
+    
+    
+      <col:module document="m66785"/>
+        
+      
+    
+    
+      <col:module document="m66786"/>
+        
+      
+    
+    
+      <col:module document="m66787"/>
+        
+      
+    
+    
+      <col:module document="m66788"/>
+        
+      
+    
+    
+      <col:module document="m66789"/>
+        
+      
+    
+    
+      <col:module document="m66793"/>
+        
+      
+    
+    
+      <col:module document="m66791"/>
+        
+      
+    
+    
+      <col:module document="m66792"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Quadratic Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m60335"/>
+        
+      
+    
+    
+      <col:module document="m60345"/>
+        
+      
+    
+    
+      <col:module document="m60340"/>
+        
+      
+    
+    
+      <col:module document="m60350"/>
+        
+      
+    
+    
+      <col:module document="m60338"/>
+        
+      
+    
+    
+      <col:module document="m60323"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Exponential and Logarithmic Functions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m67532"/>
+        
+      
+    
+    
+      <col:module document="m67527"/>
+        
+      
+    
+    
+      <col:module document="m67528"/>
+        
+      
+    
+    
+      <col:module document="m67526"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
