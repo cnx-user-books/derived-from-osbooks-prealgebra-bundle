@@ -823,7 +823,7 @@ If you missed this problem, review <link document="m53030" target-id="fs-id14609
 
 <row valign="top">
 	<entry align="left">For any real number <m:math><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
-	<entry align="center"><m:math><m:mrow><m:mfrac><m:mn>0</m:mn><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math><newline/><m:math/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>0</m:mn></m:mfrac></m:mrow></m:math> is undefined</entry><entry/>
+	<entry align="center"><m:math><m:mrow><m:mfrac><m:mn>0</m:mn><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math><newline/><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>0</m:mn></m:mfrac></m:mrow></m:math> is undefined</entry><entry/>
 </row>
 
 
