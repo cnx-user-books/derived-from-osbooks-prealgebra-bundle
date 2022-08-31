@@ -800,7 +800,7 @@ Notice that when the larger exponent is in the denominator, we are left with fac
 <row>
   <entry>Raise the numberator and denominator to the third power
   	<newline/>using the Quotient to a Power Property, <m:math><m:msup><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mi>m</m:mi></m:msup><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mi>m</m:mi></m:msup></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mi>m</m:mi></m:msup></m:mrow></m:mfrac></m:math>.</entry>
-  <entry><m:math> </m:math></entry>
+  <entry/>
 </row>
 <row>
   <entry>Use the Powert Property and simplify.</entry>
