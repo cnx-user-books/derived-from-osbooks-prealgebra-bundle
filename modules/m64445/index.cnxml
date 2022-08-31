@@ -201,8 +201,8 @@
     <m:mtd columnalign="left" rowalign="center">
      <m:mn>7</m:mn>
     </m:mtd>
-   </m:mtr><m:mspace width="1em"/>
-   <m:mtr rowalign="center">
+   </m:mtr><m:mtr><m:mtd><m:mspace width="1em"/>
+   </m:mtd></m:mtr><m:mtr rowalign="center">
     <m:mtd rowalign="center" columnalign="right">
      <m:mrow>
       <m:mi>x</m:mi><m:mo>+</m:mo><m:mn>17</m:mn></m:mrow>
@@ -316,8 +316,8 @@
       <m:mn>92</m:mn></m:mrow>
     </m:mtd>
    </m:mtr>
-  <m:mspace width="1em"/>
-   <m:mtr rowalign="center">
+  <m:mtr><m:mtd><m:mspace width="1em"/>
+   </m:mtd></m:mtr><m:mtr rowalign="center">
     <m:mtd rowalign="center" columnalign="right">
      <m:mrow>
       <m:mtext>Company </m:mtext><m:mi>B</m:mi></m:mrow>
@@ -390,8 +390,8 @@
       <m:mn>55</m:mn></m:mrow>
     </m:mtd>
    </m:mtr>
-  <m:mspace width="1em"/>
-   <m:mtr rowalign="center">
+  <m:mtr><m:mtd><m:mspace width="1em"/>
+   </m:mtd></m:mtr><m:mtr rowalign="center">
     <m:mtd rowalign="center" columnalign="right">
      <m:mrow>
       <m:mtext>Company </m:mtext><m:mi>B</m:mi></m:mrow>

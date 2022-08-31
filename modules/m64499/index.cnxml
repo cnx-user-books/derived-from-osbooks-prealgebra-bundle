@@ -1374,7 +1374,7 @@
 </m:mrow>
 <m:mo>)</m:mo></m:mrow>
 </m:mrow>
-<m:mprescripts/>
+<m:none/><m:none/><m:mprescripts/>
 <m:mn>4</m:mn>
 <m:none/>
 </m:mmultiscripts>
@@ -2312,7 +2312,7 @@
 <m:mrow>
 <m:mtext> </m:mtext><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>e</m:mi><m:mmultiscripts>
 <m:mtext> </m:mtext>
-<m:mprescripts/>
+<m:none/><m:none/><m:mprescripts/>
 <m:none/>
 <m:mi>x</m:mi>
 </m:mmultiscripts>
@@ -2344,7 +2344,7 @@
 <m:mrow>
 <m:mtext> </m:mtext><m:mi>e</m:mi><m:mmultiscripts>
 <m:mo>=</m:mo>
-<m:mprescripts/>
+<m:none/><m:none/><m:mprescripts/>
 <m:none/>
 <m:mrow>
 <m:mi>ln</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo>
