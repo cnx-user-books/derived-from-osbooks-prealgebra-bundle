@@ -68,7 +68,7 @@
 <example id="fs-id1167835595046">
 <exercise id="fs-id1167835362334">
 <problem id="fs-id1167834219221">
-<para id="fs-id1167835217963">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>></m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
+<para id="fs-id1167835217963">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>&gt;</m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
 <para id="fs-id1167831883212"><span class="token">ⓐ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−5</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>8</m:mn><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>−9</m:mn><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−9</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−16</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>__</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−16</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167835301570">
@@ -89,11 +89,11 @@
 </row>
 <row>
 <entry>Order.</entry>
-<entry><m:math><m:mrow><m:mspace width="1.3em"/><m:mn>5</m:mn><m:mo>></m:mo><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:math></entry>
+<entry><m:math><m:mrow><m:mspace width="1.3em"/><m:mn>5</m:mn><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:math></entry>
 </row>
 <row>
 <entry/>
-<entry><m:math><m:mrow><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo><m:mo>></m:mo><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo></m:mrow></m:math></entry>
+<entry><m:math><m:mrow><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo></m:mrow></m:math></entry>
 </row>
 </tbody>
 </tgroup>
@@ -116,11 +116,11 @@
 </row>
 <row>
 <entry>Order.</entry>
-<entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>></m:mo><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></entry>
+<entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></entry>
 </row>
 <row>
 <entry/>
-<entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>></m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math></entry>
+<entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math></entry>
 </row>
 </tbody>
 </tgroup>
@@ -187,22 +187,22 @@
 <note id="fs-id1167835365755" class="try">
 <exercise id="fs-id1167835370336">
 <problem id="fs-id1167834195431">
-<para id="fs-id1167831928877">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>></m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
+<para id="fs-id1167831928877">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>&gt;</m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
 <para id="fs-id1167832056480"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>−9</m:mn><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−9</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−2</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mn>−8</m:mn><m:mo>__</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−8</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−9</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>__</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−9</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167835381034">
-<para id="fs-id1167832052135"><span class="token">ⓐ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>&lt;</m:mo></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mo>=</m:mo></m:math></para>
+<para id="fs-id1167832052135"><span class="token">ⓐ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>&lt;</m:mo></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mo>=</m:mo></m:math></para>
 </solution>
 </exercise>
 </note>
 <note id="fs-id1167835225722" class="try">
 <exercise id="fs-id1167835355749">
 <problem id="fs-id1167835417963">
-<para id="fs-id1167831076591">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>></m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
+<para id="fs-id1167831076591">Fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>&gt;</m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers:</para>
 <para id="fs-id1167835321729"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>7</m:mn><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−7</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>__</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−10</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−4</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>__</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−4</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> <span class="token">ⓓ</span> <m:math><m:mrow><m:mn>−1</m:mn><m:mo>__</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−1</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167835198777">
-<para id="fs-id1167835367362"><span class="token">ⓐ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>></m:mo></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mo>&lt;</m:mo></m:math></para>
+<para id="fs-id1167835367362"><span class="token">ⓐ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>&gt;</m:mo></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mo>&lt;</m:mo></m:math></para>
 </solution>
 </exercise>
 </note>
@@ -1542,13 +1542,13 @@ Multiplying a number by <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> give
 <section id="fs-id1167831826355" class="practice-perfect">
 <title>Practice Makes Perfect</title>
 <para id="fs-id1167831826362"><emphasis effect="bold">Simplify Expressions with Absolute Value</emphasis></para>
-<para id="fs-id1167831826368">In the following exercises, fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>></m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers.</para>
+<para id="fs-id1167831826368">In the following exercises, fill in <m:math><m:mrow><m:mo>&lt;</m:mo><m:mo>,</m:mo><m:mo>&gt;</m:mo><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mo>=</m:mo></m:math> for each of the following pairs of numbers.</para>
 <exercise id="fs-id1167834238749">
 <problem id="fs-id1167834238751">
 <para id="fs-id1167834238753"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−7</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−7</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>6</m:mn><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−6</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−11</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−13</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−13</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167831882179">
-<para id="fs-id1167831882181"><span class="token">ⓐ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓓ</span> <m:math><m:mo>></m:mo></m:math></para>
+<para id="fs-id1167831882181"><span class="token">ⓐ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓓ</span> <m:math><m:mo>&gt;</m:mo></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167834534488">
@@ -1561,7 +1561,7 @@ Multiplying a number by <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> give
 <para id="fs-id1167832086878"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>|</m:mo><m:mn>2</m:mn><m:mo>|</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−2</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mn>−12</m:mn><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−12</m:mn></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math><newline/><span class="token">ⓓ</span> <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:mn>−19</m:mn></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>___</m:mo><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−19</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1167834538202">
-<para id="fs-id1167834538205"><span class="token">ⓐ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>></m:mo></m:math> <span class="token">ⓓ</span> <m:math><m:mo>=</m:mo></m:math></para>
+<para id="fs-id1167834538205"><span class="token">ⓐ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓑ</span> <m:math><m:mo>=</m:mo></m:math> <span class="token">ⓒ</span> <m:math><m:mo>&gt;</m:mo></m:math> <span class="token">ⓓ</span> <m:math><m:mo>=</m:mo></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1167831826418">

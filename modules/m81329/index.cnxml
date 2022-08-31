@@ -152,7 +152,7 @@ If you missed this problem, review <link document="m81308" target-id="fs-id11664
  <entry><m:math><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>8</m:mn></m:math></entry>
  </row>
  <row>
- <entry>Step 6. <emphasis effect="bold">Check:</emphasis><newline/>Substitute the numbers into the formula and make sure<newline/> the result is a true statement.<newline/><m:math><m:mi>d</m:mi><m:mo>=</m:mo><m:mi>r</m:mi><m:mi>t</m:mi></m:math><newline/><m:math><m:mn>520</m:mn><m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mn>65</m:mn><m:mo>⋅</m:mo><m:mn>8</m:mn></m:math><newline/><m:math><m:mn>520</m:mn><m:mo>=</m:mo><m:mn>520></m:mn><m:mo>✓</m:mo></m:math></entry>
+ <entry>Step 6. <emphasis effect="bold">Check:</emphasis><newline/>Substitute the numbers into the formula and make sure<newline/> the result is a true statement.<newline/><m:math><m:mi>d</m:mi><m:mo>=</m:mo><m:mi>r</m:mi><m:mi>t</m:mi></m:math><newline/><m:math><m:mn>520</m:mn><m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mn>65</m:mn><m:mo>⋅</m:mo><m:mn>8</m:mn></m:math><newline/><m:math><m:mn>520</m:mn><m:mo>=</m:mo><m:mn>520&gt;</m:mn><m:mo>✓</m:mo></m:math></entry>
  <entry/>
  </row>
  <row>

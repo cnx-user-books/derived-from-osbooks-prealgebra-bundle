@@ -208,7 +208,7 @@ If you missed this problem, review <link target-id="fs-id1167836392219" document
 </tbody>
 </tgroup>
 </table>
-<para id="fs-id1169145519328">The standard form of a complex number is <m:math><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>i</m:mi><m:mo>,</m:mo></m:mrow></m:math> so this explains why the preferred form is <m:math><m:mrow><m:msqrt><m:mrow><m:mtext>−</m:mtext><m:mi>b</m:mi></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt><m:mi>i</m:mi></m:mrow></m:math> when <m:math><m:mrow><m:mi>b</m:mi><m:mo>></m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1169145519328">The standard form of a complex number is <m:math><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>i</m:mi><m:mo>,</m:mo></m:mrow></m:math> so this explains why the preferred form is <m:math><m:mrow><m:msqrt><m:mrow><m:mtext>−</m:mtext><m:mi>b</m:mi></m:mrow></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt><m:mi>i</m:mi></m:mrow></m:math> when <m:math><m:mrow><m:mi>b</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1169147847796">The diagram helps us visualize the complex number system. It is made up of both the real numbers and the imaginary numbers.</para>
 <media id="fs-id1169145621336" alt="The table has four rows and three columns. The first row is a header and the second column entry a plus b i. In the second row is b equals zero, a plus 0 i, and “Real number”. The third row contains b is not equal to 0, a plus b i, and “Imaginary number”. The fourth row contains a = 0, 0 plus b i, and “Pure imaginary number”.">
 <image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_08_08_002_img_new.jpg"/>

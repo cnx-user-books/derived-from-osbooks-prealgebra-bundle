@@ -82,8 +82,8 @@ If you missed this problem, review <link document="m81405" target-id="fs-id11691
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Orientation</emphasis></entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Axis of symmetry</emphasis></entry>
@@ -417,8 +417,8 @@ If you missed this problem, review <link document="m81405" target-id="fs-id11691
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Orientation</emphasis></entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Axis of symmetry</emphasis></entry>
@@ -1165,8 +1165,8 @@ We also plot the points symmetric to <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mr
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Orientation</emphasis></entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> up; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> down</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Axis of symmetry</emphasis></entry>
@@ -1223,8 +1223,8 @@ We also plot the points symmetric to <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mr
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Orientation</emphasis></entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
-<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
+<entry valign="middle" align="center"><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> right; <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> left</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold">Axis of symmetry</emphasis></entry>

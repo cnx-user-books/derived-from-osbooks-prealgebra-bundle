@@ -1216,7 +1216,7 @@ If you missed this problem, review <link document="m82457" target-id="fs-id11706
 <item><emphasis effect="bold">The graph of every quadratic equation is a parabola.</emphasis></item>
 <item><emphasis effect="bold">Parabola Orientation</emphasis> For the quadratic equation <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math>, if
 <list id="fs-id1166502216968" list-type="bulleted" bullet-style="open-circle">
-<item><m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mn>0</m:mn></m:mrow></m:math>, the parabola opens upward.</item>
+<item><m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>, the parabola opens upward.</item>
 <item><m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>, the parabola opens downward.</item>
 </list></item>
 <item><emphasis effect="bold">Axis of Symmetry and Vertex of a Parabola</emphasis> For a parabola with equation <m:math><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math>:

@@ -945,7 +945,7 @@ If you missed this problem, review <link target-id="fs-id1906106" document="m812
 
 
 </tgroup>
-</table><para id="fs-id1572916">Notice that since <m:math><m:mrow><m:mn>1.05</m:mn><m:mo>></m:mo><m:mn>1</m:mn><m:mo>,</m:mo></m:mrow></m:math> the result is more than <m:math><m:mrow><m:mtext>100%.</m:mtext></m:mrow></m:math></para>
+</table><para id="fs-id1572916">Notice that since <m:math><m:mrow><m:mn>1.05</m:mn><m:mo>&gt;</m:mo><m:mn>1</m:mn><m:mo>,</m:mo></m:mrow></m:math> the result is more than <m:math><m:mrow><m:mtext>100%.</m:mtext></m:mrow></m:math></para>
 
 <table id="eip-id1168469711926" class="unnumbered unstyled" summary="."><label/>
 <tgroup cols="2"><tbody>

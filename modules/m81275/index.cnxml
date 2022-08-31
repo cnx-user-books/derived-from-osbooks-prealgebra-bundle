@@ -31,7 +31,7 @@ If you missed this problem, review <link target-id="fs-id1262372" document="m812
 <note id="fs-id1618203" class="be-prepared">
 <exercise id="fs-idm319662176">
 <problem id="fs-idm324326592">
-<para id="fs-idm354172464">Fill in the appropriate symbol: <m:math><m:mrow><m:mtext>(=, &lt;, or >):</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>___</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/>
+<para id="fs-idm354172464">Fill in the appropriate symbol: <m:math><m:mrow><m:mtext>(=, &lt;, or &gt;):</m:mtext><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mo>___</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/>
 If you missed this problem, review <link target-id="fs-id1714381" document="m81268"/>.</para>
 </problem>
 <solution id="fs-idm325756592">
@@ -149,7 +149,7 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 <image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_01_012.jpg"/>
 </media>
 </figure>
-<para id="fs-id1190625">Just as we did with positive numbers, we can use inequality symbols to show the ordering of positive and <term class="no-emphasis" id="term-00013">negative numbers</term>. Remember that we use the notation <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mi>b</m:mi></m:mrow></m:math> (read <m:math><m:mi>a</m:mi></m:math> <emphasis effect="italics">is less than</emphasis> <m:math><m:mi>b</m:mi></m:math>) when <m:math><m:mi>a</m:mi></m:math> is to the left of <m:math><m:mi>b</m:mi></m:math> on the number line. We write <m:math><m:mrow><m:mi>a</m:mi><m:mo>></m:mo><m:mi>b</m:mi></m:mrow></m:math> (read <m:math><m:mi>a</m:mi></m:math> <emphasis effect="italics">is greater than</emphasis> <m:math><m:mi>b</m:mi></m:math>) when <m:math><m:mi>a</m:mi></m:math> is to the right of <m:math><m:mi>b</m:mi></m:math> on the number line. This is shown for the numbers <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> in <link target-id="CNX_BMath_Figure_03_01_013"/>.</para>
+<para id="fs-id1190625">Just as we did with positive numbers, we can use inequality symbols to show the ordering of positive and <term class="no-emphasis" id="term-00013">negative numbers</term>. Remember that we use the notation <m:math><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mi>b</m:mi></m:mrow></m:math> (read <m:math><m:mi>a</m:mi></m:math> <emphasis effect="italics">is less than</emphasis> <m:math><m:mi>b</m:mi></m:math>) when <m:math><m:mi>a</m:mi></m:math> is to the left of <m:math><m:mi>b</m:mi></m:math> on the number line. We write <m:math><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mi>b</m:mi></m:mrow></m:math> (read <m:math><m:mi>a</m:mi></m:math> <emphasis effect="italics">is greater than</emphasis> <m:math><m:mi>b</m:mi></m:math>) when <m:math><m:mi>a</m:mi></m:math> is to the right of <m:math><m:mi>b</m:mi></m:math> on the number line. This is shown for the numbers <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> in <link target-id="CNX_BMath_Figure_03_01_013"/>.</para>
 <figure id="CNX_BMath_Figure_03_01_013">
 <media id="fs-id1259449" alt="This figure is a number line with points 3 and 5 labeled with dots. Below the number line is the statements 3 is less than 5 and 5 is greater than 3.">
 <image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_01_013.jpg"/>
@@ -160,21 +160,21 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 <para id="fs-id1383508">ⓐ<newline/>
 <media id="fs-id3926399" alt="This figure is a number line with points 1 and 4 labeled with dots.">
 <image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_01_014a_img.jpg"/>
-</media></para><para id="fs-id1654012"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>4</m:mn><m:mo>></m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</media></para><para id="fs-id1654012"><m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>4</m:mn><m:mo>&gt;</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1336748"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> is to the left of <m:math><m:mrow><m:mn>4</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>1</m:mn><m:mo>&lt;</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1371635">ⓑ<newline/>
 <media id="fs-id1802292" alt="This figure is a number line with points negative 2 and 1 labeled with dots.">
 <image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_01_014b_img.jpg"/>
 </media></para><para id="fs-id1649402"><m:math><m:mrow><m:mn>−2</m:mn></m:mrow></m:math> is to the left of <m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>−2</m:mn><m:mo>&lt;</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
-<para id="fs-id1165826"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>−2</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>1</m:mn><m:mo>></m:mo><m:mn>−2</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1165826"><m:math><m:mrow><m:mn>1</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>−2</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>1</m:mn><m:mo>&gt;</m:mo><m:mn>−2</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1211646">ⓒ<newline/>
 <media id="fs-id3214013" alt="This figure is a number line with points negative 3 and negative 1 labeled with dots.">
 <image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_01_014c_img.jpg"/>
-</media></para><para id="fs-id3179780"><m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>−3</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>−1</m:mn><m:mo>></m:mo><m:mn>−3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</media></para><para id="fs-id3179780"><m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math> is to the right of <m:math><m:mrow><m:mn>−3</m:mn></m:mrow></m:math> on the number line, so <m:math><m:mrow><m:mn>−1</m:mn><m:mo>&gt;</m:mo><m:mn>−3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id2740034"><m:math><m:mn>−3</m:mn></m:math> is to the left of <m:math><m:mn>−1</m:mn></m:math> on the number line, so <m:math><m:mrow><m:mn>−3</m:mn><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
 <example id="fs-id3350134">
 <exercise id="fs-id3440349"><problem id="fs-id1377649">
-<para id="fs-id1872989">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>>:</m:mtext></m:mrow></m:math><newline/>
+<para id="fs-id1872989">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>&gt;:</m:mtext></m:mrow></m:math><newline/>
 
 <list id="eip-id1168467249369" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>14</m:mn><m:mo>___</m:mo><m:mn>6</m:mn><m:mspace width="0.8em"/></m:math></item>
 
@@ -203,7 +203,7 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 </row>
  <row>
    <entry>14 is to the right of 6 on the number line.</entry>
-   <entry><m:math><m:mn>14</m:mn><m:mo>></m:mo><m:mn>6</m:mn></m:math></entry>
+   <entry><m:math><m:mn>14</m:mn><m:mo>&gt;</m:mo><m:mn>6</m:mn></m:math></entry>
  </row>
 
 
@@ -237,7 +237,7 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 </row>
  <row>
    <entry>−1 is to the right of −4 on the number line.</entry>
-   <entry><m:math><m:mn>−1</m:mn><m:mo>></m:mo><m:mn>−4</m:mn></m:math></entry>
+   <entry><m:math><m:mn>−1</m:mn><m:mo>&gt;</m:mo><m:mn>−4</m:mn></m:math></entry>
  </row>
 
 
@@ -256,7 +256,7 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 
  <row>
    <entry>2 is to the right of −20 on the number line.</entry>
-   <entry><m:math><m:mn>2</m:mn><m:mo>></m:mo><m:mn>−20</m:mn></m:math></entry>
+   <entry><m:math><m:mn>2</m:mn><m:mo>&gt;</m:mo><m:mn>−20</m:mn></m:math></entry>
  </row>
 
 
@@ -270,7 +270,7 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 <note id="fs-id1327811" class="try">
 <exercise id="fs-id3937820">
 <problem id="fs-id1764873">
-<para id="fs-id1768569">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>>.</m:mtext></m:mrow></m:math>
+<para id="fs-id1768569">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>&gt;.</m:mtext></m:mrow></m:math>
 <list id="eip-id1168468466634" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>15</m:mn><m:mo>___</m:mo><m:mn>7</m:mn><m:mspace width="0.8em"/></m:math></item>
 <item><span class="token">ⓑ</span> <m:math><m:mspace width="0.2em"/><m:mn>−2</m:mn><m:mo>___</m:mo><m:mn>5</m:mn><m:mspace width="0.8em"/></m:math></item>
 <item><span class="token">ⓒ</span> <m:math><m:mspace width="0.2em"/><m:mn>−3</m:mn><m:mo>___</m:mo><m:mn>−7</m:mn><m:mspace width="0.8em"/></m:math></item>
@@ -278,17 +278,17 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 
 </list></para></problem>
 <solution id="fs-id1223199">
-<para id="fs-id1697346"><list id="eip-id1168468454852" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> > </item>
+<para id="fs-id1697346"><list id="eip-id1168468454852" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &gt; </item>
 <item><span class="token">ⓑ</span> &lt; </item>
-<item><span class="token">ⓒ</span> > </item>
-<item><span class="token">ⓓ</span> > </item>
+<item><span class="token">ⓒ</span> &gt; </item>
+<item><span class="token">ⓓ</span> &gt; </item>
 </list></para></solution>
 </exercise>
 </note>
 <note id="fs-id13278110" class="try">
 <exercise id="fs-id2337620">
 <problem id="fs-id1403503">
-<para id="fs-id17685690">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>>.</m:mtext></m:mrow></m:math></para>
+<para id="fs-id17685690">Order each of the following pairs of numbers using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>&gt;.</m:mtext></m:mrow></m:math></para>
 <para id="fs-id1395245"><list id="eip-id1168468389365" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>___</m:mo><m:mn>13</m:mn><m:mspace width="0.8em"/></m:math></item>
 <item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mo>___</m:mo><m:mn>−4</m:mn><m:mspace width="1em"/></m:math></item>
 <item><span class="token">ⓒ</span><m:math><m:mspace width="0.2em"/><m:mn>−5</m:mn><m:mo>___</m:mo><m:mn>−2</m:mn><m:mspace width="1em"/></m:math></item>
@@ -297,9 +297,9 @@ If you missed this problem, review <link target-id="fs-id1714381" document="m812
 </list></para></problem>
 <solution id="fs-id1271349">
 <para id="fs-id1998299"><list id="eip-id1168468771438" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &lt; </item>
-<item><span class="token">ⓑ</span> > </item>
+<item><span class="token">ⓑ</span> &gt; </item>
 <item><span class="token">ⓒ</span> &lt; </item>
-<item><span class="token">ⓓ</span> > </item>
+<item><span class="token">ⓓ</span> &gt; </item>
 </list></para></solution>
 </exercise>
 </note>
@@ -814,7 +814,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 </list></solution>
 </exercise></note>
 <example id="fs-id1271821"><exercise id="fs-id1411060"><problem id="fs-id4166952">
-<para id="fs-id1240982">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>></m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> for each of the following:</para>
+<para id="fs-id1240982">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>&gt;</m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> for each of the following:</para>
 <para id="fs-id1182588"><list id="eip-id1168468767333" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo><m:mo>___</m:mo><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−5</m:mn><m:mo>|</m:mo><m:mspace width="1em"/></m:math></item>
 
 <item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>___</m:mo><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−8</m:mn><m:mo>|</m:mo><m:mspace width="1em"/></m:math></item>
@@ -841,7 +841,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
   </row>
   <row>
     <entry>Order.</entry>
-    <entry><m:math><m:mrow><m:mn>5</m:mn><m:mo>></m:mo><m:mn>−5</m:mn></m:mrow></m:math></entry>
+    <entry><m:math><m:mrow><m:mn>5</m:mn><m:mo>&gt;</m:mo><m:mn>−5</m:mn></m:mrow></m:math></entry>
   </row>
 </tbody>
 
@@ -863,7 +863,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
   </row>
   <row>
     <entry>Order.</entry>
-    <entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>></m:mo><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></entry>
+    <entry><m:math><m:mrow><m:mn>8</m:mn><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:math></entry>
   </row>
 </tbody>
 
@@ -918,7 +918,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 </table></solution>
 </exercise></example><note id="fs-id2570761" class="try">
 <exercise id="fs-id2711614"><problem id="fs-id1679527">
-<para id="fs-id4297694">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>></m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>for each of the following:</m:mtext></m:mrow></m:math>
+<para id="fs-id4297694">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>&gt;</m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mtext>for each of the following:</m:mtext></m:mrow></m:math>
 
 <list id="eip-id1168469875336" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mo>|</m:mo><m:mn>−9</m:mn><m:mo>|</m:mo><m:mspace width="0.2em"/><m:mtext>___</m:mtext><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−9</m:mn><m:mo>|</m:mo><m:mspace width="1em"/></m:math></item>
 
@@ -932,15 +932,15 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 
 </problem>
 <solution id="fs-id2727832">
-<list id="eip-id1168468520073" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> > </item>
-<item><span class="token">ⓑ</span> > </item>
+<list id="eip-id1168468520073" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &gt; </item>
+<item><span class="token">ⓑ</span> &gt; </item>
 <item><span class="token">ⓒ</span> &lt; </item>
 <item><span class="token">ⓓ</span> = </item>
 </list></solution>
 </exercise></note>
 <note id="fs-id1171105520809" class="try">
 <exercise id="fs-id2008190"><problem id="fs-id3005014">
-<para id="fs-id1171103714799">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>></m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> for each of the following:
+<para id="fs-id1171103714799">Fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>&gt;</m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> for each of the following:
 
 <list id="eip-id1168469856365" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mtext>___</m:mtext><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−7</m:mn><m:mo>|</m:mo><m:mspace width="1em"/></m:math></item>
 
@@ -953,9 +953,9 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 </list></para>
 </problem>
 <solution id="fs-id2496191">
-<list id="eip-id1168468610969" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span>></item>
+<list id="eip-id1168468610969" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span>&gt;</item>
 <item> <span class="token">ⓑ</span> =</item>
-<item> <span class="token">ⓒ</span> ></item>
+<item> <span class="token">ⓒ</span> &gt;</item>
 <item><span class="token">ⓓ</span> &lt; </item>
 </list></solution>
 </exercise></note>
@@ -1424,7 +1424,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 <item><span class="token">ⓒ</span><m:math><m:mspace width="0.2em"/><m:mn>−1</m:mn></m:math></item>
 </list>
 </problem>
-</exercise><para id="fs-id1756514"><emphasis effect="bold">Order Positive and Negative Numbers on the Number Line</emphasis> </para><para id="eip-862">In the following exercises, order each of the following pairs of numbers, using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>>.</m:mtext></m:mrow></m:math></para><exercise id="fs-id1945782"><problem id="fs-id1611798">
+</exercise><para id="fs-id1756514"><emphasis effect="bold">Order Positive and Negative Numbers on the Number Line</emphasis> </para><para id="eip-862">In the following exercises, order each of the following pairs of numbers, using <m:math><m:mrow><m:mo>&lt;</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mtext>&gt;.</m:mtext></m:mrow></m:math></para><exercise id="fs-id1945782"><problem id="fs-id1611798">
 <para id="fs-id1701064"><list id="eip-id1168469475733" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>9</m:mn><m:mtext>__</m:mtext><m:mn>4</m:mn><m:mspace width="0.2em"/></m:math></item>
 
 <item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>−3</m:mn><m:mtext>__</m:mtext><m:mn>6</m:mn><m:mspace width="0.2em"/></m:math></item>
@@ -1436,10 +1436,10 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 </list></para>
 </problem>
 <solution id="fs-id1617621">
-<list id="eip-id1168468289303" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> > </item>
+<list id="eip-id1168468289303" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &gt; </item>
 <item><span class="token">ⓑ</span> &lt; </item>
 <item><span class="token">ⓒ</span> &lt; </item>
-<item><span class="token">ⓓ</span> > </item>
+<item><span class="token">ⓓ</span> &gt; </item>
 </list></solution>
 </exercise><exercise id="fs-id1889175"><problem id="fs-id2584430">
 <list id="eip-id1168467492766" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mtext>__</m:mtext><m:mn>2</m:mn><m:mo>;</m:mo><m:mspace width="0.2em"/></m:math></item>
@@ -1464,9 +1464,9 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 
 <solution id="fs-id2341584">
 <list id="eip-id1168468388584" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &lt; </item>
-<item><span class="token">ⓑ</span> > </item>
+<item><span class="token">ⓑ</span> &gt; </item>
 <item><span class="token">ⓒ</span> &lt; </item>
-<item><span class="token">ⓓ</span> > </item>
+<item><span class="token">ⓓ</span> &gt; </item>
 </list></solution>
 </exercise><exercise id="fs-id2239506"><problem id="fs-id1379788"><list id="eip-id1168469523733" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>−7</m:mn><m:mtext>__</m:mtext><m:mn>3</m:mn><m:mo>;</m:mo><m:mspace width="0.2em"/></m:math></item>
 
@@ -1644,7 +1644,7 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 
 <item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>|</m:mo><m:mi>b</m:mi><m:mo>|</m:mo><m:mspace width="0.2em"/><m:mtext>when</m:mtext><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>−12</m:mn></m:math></item>
 </list></problem>
-</exercise><para id="fs-id1368924">In the following exercises, fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>></m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> to compare each expression.</para><exercise id="fs-id1654350"><problem id="fs-id1255103">
+</exercise><para id="fs-id1368924">In the following exercises, fill in <m:math><m:mrow><m:mtext>&lt;</m:mtext><m:mo>,</m:mo><m:mtext>&gt;</m:mtext><m:mo>,</m:mo><m:mtext>or</m:mtext><m:mo>=</m:mo></m:mrow></m:math> to compare each expression.</para><exercise id="fs-id1654350"><problem id="fs-id1255103">
 <list id="eip-id1168468261146" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mn>−6</m:mn><m:mtext>__</m:mtext><m:mo>|</m:mo><m:mn>−6</m:mn><m:mo>|</m:mo><m:mspace width="0.2em"/></m:math></item>
 <item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mo>−</m:mo><m:mo>|</m:mo><m:mn>−3</m:mn><m:mo>|</m:mo><m:mtext>__</m:mtext><m:mn>−3</m:mn></m:math></item>
 </list></problem>
@@ -1662,8 +1662,8 @@ The sign outside the parentheses indicates the opposite. We read <m:math><m:mo>�
 </list>
 </problem>
 <solution id="fs-id2006246">
-<list id="eip-id1168468483806" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> ></item>
-<item><span class="token">ⓑ</span> ></item>
+<list id="eip-id1168468483806" list-type="enumerated" number-style="arabic" class="circled"><item><span class="token">ⓐ</span> &gt;</item>
+<item><span class="token">ⓑ</span> &gt;</item>
 </list>
 </solution>
 </exercise><exercise id="fs-id1668973"><problem id="fs-id1565328">

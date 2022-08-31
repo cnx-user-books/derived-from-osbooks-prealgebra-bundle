@@ -349,7 +349,7 @@ Substitute the solution into the original equation to make sure the result is a 
 <entry valign="top" align="left"><media id="fs-id1167836788647" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_01_005i_img.jpg"/></media></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2">Subtract <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:math> from each side to get the variables only on<newline/>the right since <m:math><m:mrow><m:mn>10</m:mn><m:mo>></m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></entry>
+<entry valign="top" align="left" namest="c1" nameend="c2">Subtract <m:math><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:math> from each side to get the variables only on<newline/>the right since <m:math><m:mrow><m:mn>10</m:mn><m:mo>&gt;</m:mo><m:mn>4</m:mn><m:mo>.</m:mo></m:mrow></m:math></entry>
 <entry/>
 <entry/>
 <entry valign="top" align="left"><media id="fs-id1167836530991" alt="."><image mime-type="image/jpeg" src="../../media/CNX_IntAlg_Figure_02_01_005j_img.jpg"/></media></entry>

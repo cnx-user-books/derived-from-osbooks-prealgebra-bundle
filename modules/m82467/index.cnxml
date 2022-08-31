@@ -502,7 +502,7 @@ State the solution to the equation.</item>
     <entry><media id="eip-id1168186221926" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_04_010i_img_new.jpg"/></media></entry>
   </row>
   <row>
-    <entry namest="c1" nameend="c2">Subtract <m:math><m:mn>4</m:mn><m:mi>x</m:mi></m:math> to get the variables only on the right side since <m:math><m:mn>10</m:mn><m:mo>></m:mo><m:mn>4</m:mn></m:math>.</entry>
+    <entry namest="c1" nameend="c2">Subtract <m:math><m:mn>4</m:mn><m:mi>x</m:mi></m:math> to get the variables only on the right side since <m:math><m:mn>10</m:mn><m:mo>&gt;</m:mo><m:mn>4</m:mn></m:math>.</entry>
     <entry><media id="eip-id1168186221962" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_04_010j_img_new.jpg"/></media></entry>
   </row>
   <row>
