@@ -45,8 +45,8 @@
 <entry valign="top" align="center"><m:math><m:mrow><m:mn>38</m:mn></m:mrow></m:math></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="center"><m:math><m:mtext mathvariant="bolditalic">g</m:mtext></m:math></entry>
-<entry valign="top" align="center"><m:math><m:mrow><m:mtext mathvariant="bolditalic">g</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math></entry>
+<entry valign="top" align="center"><m:math><m:mtext mathvariant="bold-italic">g</m:mtext></m:math></entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mtext mathvariant="bold-italic">g</m:mtext><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:math></entry>
 </row>
 </tbody>
 </tgroup>
@@ -306,10 +306,10 @@
 </problem>
 <solution id="fs-id1170655111791">
 <title>Solution</title>
-<para id="fs-id1167836628251"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="4em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italics">equation</m:mtext><m:mtext>—two expressions are connected with an equal sign.</m:mtext></m:mrow></m:math><newline/>
-<span class="token">ⓑ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>1</m:mn><m:mspace width="4.55em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italics">expression</m:mtext><m:mtext>—no equal sign.</m:mtext></m:mrow></m:math><newline/>
-<span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>÷</m:mo><m:mn>25</m:mn><m:mspace width="6.7em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italics">expression</m:mtext><m:mtext>—no equal sign.</m:mtext></m:mrow></m:math><newline/>
-<span class="token">ⓓ</span> <m:math><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>40</m:mn><m:mspace width="5.1em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italics">equation</m:mtext><m:mtext>—two expressions are connected with an equal sign.</m:mtext></m:mrow></m:math></para>
+<para id="fs-id1167836628251"><span class="token">ⓐ</span> <m:math><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="4em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italic">equation</m:mtext><m:mtext>—two expressions are connected with an equal sign.</m:mtext></m:mrow></m:math><newline/>
+<span class="token">ⓑ</span> <m:math><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>1</m:mn><m:mspace width="4.55em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italic">expression</m:mtext><m:mtext>—no equal sign.</m:mtext></m:mrow></m:math><newline/>
+<span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>÷</m:mo><m:mn>25</m:mn><m:mspace width="6.7em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italic">expression</m:mtext><m:mtext>—no equal sign.</m:mtext></m:mrow></m:math><newline/>
+<span class="token">ⓓ</span> <m:math><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>40</m:mn><m:mspace width="5.1em"/><m:mtext>This is an</m:mtext><m:mspace width="0.2em"/><m:mtext mathvariant="italic">equation</m:mtext><m:mtext>—two expressions are connected with an equal sign.</m:mtext></m:mrow></m:math></para>
 </solution>
 </exercise>
 </example>
